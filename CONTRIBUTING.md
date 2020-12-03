@@ -1,25 +1,26 @@
-# Guidelines
+# Contribute to this Project
 
-## Contributing a Project
+👋🏽 Thanks for showing interest and helping out <br>
+If you get stuck somewhere, contact us on **[Twitter](https://twitter.com/galsendev221)** 🤙🏾
 
-To add a new project to the collection, please ensure they meet the following requirements arranged in order of importance
+## Requirements 🎯
 
-* The project must be **made in Senegal** as the name implies :grin:.
+No special skills are required, just knowing how to handle an MD file and have all the information about the project you want to add to this list 😉
+
+## Some rules to follow 📌
+
+To add a new project to the collection, please ensure they respect the following requirements arranged in order of importance ⭐
+
+* The project must be **made in Senegal** as the name implies.
 
 * The project must be open source.
 
-* The project must have global use - meaning it's not made just for use by Nigerians and there really is no geographical limitation for anyone that may be interested in using this project.
-
-* The project should not be a list of some sort.
+* The project should have at least 1 stars.
 
 * Try to add the project to it's appropriate alphabetical location.
 
-## Contributing to Repo showcase website
+* Ensure to provide a social media url of the creator of the project outside GitHub.
 
-There is a webpage that has been developed by awesome members of the community used to view the contents of this repo in a very pleasing manner. If you'd like to contribute to this website, please try to follow these steps:
+* The project must have global use - meaning it's not made just for use by Senegalese and there really is no geographical limitation for anyone that may be interested in using this project.
 
-* If you are fixing a bug or adding a new feature, please create a branch for it.
-
-* Make Pull requests as descriptive as possible.
-
-* Every other best practice recommended when contributing to a project.
+### Jajeuf 😜

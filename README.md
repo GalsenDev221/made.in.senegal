@@ -10,15 +10,17 @@
 
 ## <a name="A"> </a>A
 
+- **[ANGULAR-11-JWT-AUTH-FRONT-CLIENT](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with angular using GUARDS / INTERCEPTORS / LOCALSTORAGE /ANGULAR-JWT2. **by [@orbitturner](https://github.com/orbitturner)**
+
 ## <a name="B"> </a>B
 
-- **[Bilan](https://github.com/daoodaba975/bilan)** - 💡 A basic BATCH program that allows you to calculate your points when playing Scrabble. **By [@daoodaba975](https://github.com/daoodaba975)**
-- **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **By [@diop](https://github.com/diop)**
+- **[Bilan](https://github.com/daoodaba975/bilan)** - 💡 A basic BATCH program that allows you to calculate your points when playing Scrabble. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C
 
-- **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. **By [@riftone07](https://github.com/riftone07)**
-- **[COVID-19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **By [@senegalouvert](https://github.com/senegalouvert)**
+- **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. **by [@riftone07](https://github.com/riftone07)**
+- **[COVID-19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
 
 ## <a name="D"> </a>D
 
@@ -26,20 +28,20 @@
 
 ## <a name="F"> </a>F
 
-- **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. **By [@diop](https://github.com/diop)**
-- **[Flutter JSON Fetch](https://github.com/diop/flutter-json-fetch)** - Flutter JSON Fetch. **By [@diop](https://github.com/diop)**
+- **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. **by [@diop](https://github.com/diop)**
+- **[Flutter JSON Fetch](https://github.com/diop/flutter-json-fetch)** - Flutter JSON Fetch. **by [@diop](https://github.com/diop)**
 
 ## <a name="G"> </a>G
 
-- **[GalsenDev First Contributions](https://github.com/Galsen-Dev-LAB/galsendev-first-contributions)** - 👨🏽‍💻🙌🏽 Help newbies to contribute on open source projects. **By [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
-- **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. In this repo I exported the Quick start tutorial in their documentation as Jupyter Notebook and markdown to allow more interaction with the code. **By [@eliaswalyba](https://github.com/eliaswalyba)**
-- **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **By [@NDOY3M4N](https://github.com/NDOY3M4N)**
+- **[GalsenDev First Contributions](https://github.com/Galsen-Dev-LAB/galsendev-first-contributions)** - 👨🏽‍💻🙌🏽 Help newbies to contribute on open source projects. **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
+- **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. In this repo I exported the Quick start tutorial in their documentation as Jupyter Notebook and markdown to allow more interaction with the code. **by [@eliaswalyba](https://github.com/eliaswalyba)**
+- **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 
 ## <a name="H"> </a>H
 
 ## <a name="I"> </a>I
 
-- **[Indigo](https://github.com/diop/indigo)** - An image transformation utility written in Go. **By [@diop](https://github.com/diop)**
+- **[Indigo](https://github.com/diop/indigo)** - An image transformation utility written in Go. **by [@diop](https://github.com/diop)**
 
 ## <a name="J"> </a>J
 
@@ -47,7 +49,7 @@
 
 ## <a name="L"> </a>L
 
-- **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). **By [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
+- **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). **by [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
 
 ## <a name="M"> </a>M
 
@@ -55,15 +57,15 @@
 
 ## <a name="O"> </a>O
 
-- **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **By [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 
-- **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **By [@PapiHack](https://github.com/PapiHack)**
-- **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **By [@diop](https://github.com/diop)**
-- **[Processor](https://github.com/bcdbuddy/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **By [@bcdbuddy](https://github.com/bcdbuddy)**
-- **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **By [@orbitturner](https://github.com/orbitturner)**
-- **[Python Weekly](https://github.com/Galsen-Dev-LAB/python-weekly)** - 🐍🎯 Python Weekly is a collection of some little tips with Python every week by @daoodaba975 **By [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
+- **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
+- **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
+- **[Processor](https://github.com/bcdbuddy/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/bcdbuddy)**
+- **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Python Weekly](https://github.com/Galsen-Dev-LAB/python-weekly)** - 🐍🎯 Python Weekly is a collection of some little tips with Python every week by @daoodaba975 **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
 
 ## <a name="Q"> </a>Q
 
@@ -71,28 +73,28 @@
 
 ## <a name="S"> </a>S
 
-- **[Samane](https://github.com/ngorseckframework/samanemvc)** - PHP Framework using MVC model developped by Ngor SECK! **By [@ngorseckframework](https://github.com/ngorseckframework)**
-- **[Samane CLI](https://github.com/ngorseckframework/samane-cli)** - A fast and powerful CLI written in nodejs allowing you to optimize the repetitive tasks of your Samane project. **By [@ngorseckframework](https://github.com/ngorseckframework)**
-- **[senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - 📺 A list of Senegalese development channels on YouTube **By [@daoodaba975](https://github.com/daoodaba975)**
+- **[Samane](https://github.com/ngorseckframework/samanemvc)** - PHP Framework using MVC model developped by Ngor SECK! **by [@ngorseckframework](https://github.com/ngorseckframework)**
+- **[Samane CLI](https://github.com/ngorseckframework/samane-cli)** - A fast and powerful CLI written in nodejs allowing you to optimize the repetitive tasks of your Samane project. **by [@ngorseckframework](https://github.com/ngorseckframework)**
+- **[senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - 📺 A list of Senegalese development channels on YouTube **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="T"> </a>T
 
-- **[Taarú](https://github.com/daoodaba975/taaru)** - 🚀 A nice VS Code theme with Senegalese beauty, for coding the world. **By [@daoodaba975](https://github.com/daoodaba975)**
+- **[Taarú](https://github.com/daoodaba975/taaru)** - 🚀 A nice VS Code theme with Senegalese beauty, for coding the world. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="U"> </a>U
 
 ## <a name="V"> </a>V
 
-- **[VS Code Mediaplayer](https://github.com/sir-kain/vscode-mediaplayer)** - Mediaplayer extention for VS Code. **By [@sir-kain](https://github.com/sir-kain)**
+- **[VS Code Mediaplayer](https://github.com/sir-kain/vscode-mediaplayer)** - Mediaplayer extention for VS Code. **by [@sir-kain](https://github.com/sir-kain)**
 
 ## <a name="W"> </a>W
 
 ## <a name="X"> </a>X
 
-- **[Xoos.js](https://github.com/Shadoworker/Xoos.js)** - JS based SVG drawing framework. **By [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
+- **[Xoos.js](https://github.com/Shadoworker/Xoos.js)** - JS based SVG drawing framework. **by [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
 
 ## <a name="Y"> </a>Y
 
 ## <a name="Z"> </a>Z
 
-- **[ZakuJS](https://github.com/Shadoworker/ZakuJS)** - ZakuJS is a JS framework for dealing with svg path rigging and transition (animation). **By [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
+- **[ZakuJS](https://github.com/Shadoworker/ZakuJS)** - ZakuJS is a JS framework for dealing with svg path rigging and transition (animation). **by [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**

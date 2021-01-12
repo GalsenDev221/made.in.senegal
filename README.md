@@ -12,11 +12,11 @@
 
 ## <a name="A"> </a>A
 
-- **[ANGULAR-11-JWT-AUTH-FRONT-CLIENT](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with angular using GUARDS / INTERCEPTORS / LOCALSTORAGE /ANGULAR-JWT2. **by [@orbitturner](https://github.com/orbitturner)**
+- **[ANGULAR-11-JWT-AUTH-FRONT-CLIENT](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="B"> </a>B
 
-- **[Bilan](https://github.com/daoodaba975/bilan)** - 💡 A basic BATCH program that allows you to calculate your points when playing Scrabble. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Bilan](https://github.com/daoodaba975/bilan)** - A basic BATCH program that allows you to calculate your points when playing Scrabble. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C
@@ -31,12 +31,11 @@
 ## <a name="F"> </a>F
 
 - **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. **by [@diop](https://github.com/diop)**
-- **[Flutter JSON Fetch](https://github.com/diop/flutter-json-fetch)** - Flutter JSON Fetch. **by [@diop](https://github.com/diop)**
 
 ## <a name="G"> </a>G
 
-- **[GalsenDev First Contributions](https://github.com/Galsen-Dev-LAB/galsendev-first-contributions)** - 👨🏽‍💻🙌🏽 Help newbies to contribute on open source projects. **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
-- **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. In this repo I exported the Quick start tutorial in their documentation as Jupyter Notebook and markdown to allow more interaction with the code. **by [@eliaswalyba](https://github.com/eliaswalyba)**
+- **[GalsenDev First Contributions](https://github.com/Galsen-Dev-LAB/galsendev-first-contributions)** - Help newbies to contribute on open source projects. **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
+- **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 
 ## <a name="H"> </a>H
@@ -67,7 +66,7 @@
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/bcdbuddy/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/bcdbuddy)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Python Weekly](https://github.com/Galsen-Dev-LAB/python-weekly)** - 🐍🎯 Python Weekly is a collection of some little tips with Python every week by @daoodaba975 **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
+- **[Python Weekly](https://github.com/Galsen-Dev-LAB/python-weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
 
 ## <a name="Q"> </a>Q
 
@@ -75,13 +74,12 @@
 
 ## <a name="S"> </a>S
 
-- **[Samane](https://github.com/ngorseckframework/samanemvc)** - PHP Framework using MVC model developped by Ngor SECK! **by [@ngorseckframework](https://github.com/ngorseckframework)**
-- **[Samane CLI](https://github.com/ngorseckframework/samane-cli)** - A fast and powerful CLI written in nodejs allowing you to optimize the repetitive tasks of your Samane project. **by [@ngorseckframework](https://github.com/ngorseckframework)**
-- **[senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - 📺 A list of Senegalese development channels on YouTube **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Samane](https://github.com/ngorseckframework/samanemvc)** - PHP Framework using MVC model developped by Ngor SECK. **by [@ngorseckframework](https://github.com/ngorseckframework)**
+- **[senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="T"> </a>T
 
-- **[Taarú](https://github.com/daoodaba975/taaru)** - 🚀 A nice VS Code theme with Senegalese beauty, for coding the world. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Taarú](https://github.com/daoodaba975/taaru)** - A nice VS Code theme with Senegalese beauty, for coding the world. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="U"> </a>U
 

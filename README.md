@@ -16,7 +16,6 @@
 
 ## <a name="B"> </a>B
 
-- **[Bilan](https://github.com/daoodaba975/bilan)** - A basic BATCH program that allows you to calculate your points when playing Scrabble. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C

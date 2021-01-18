@@ -57,13 +57,19 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="N"> </a>N
 
+- **[NestJs MongoDB Base Crud Api](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. **by [@babacarbasse](https://github.com/babacarbasse)**
+
 ## <a name="O"> </a>O
 
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
 
+- **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange Sms Ruby is a client library that allow you to send sms from a RoR app using the Orange Sms API. **by [@bayevels](https://github.com/bayevels)**
+
 ## <a name="P"> </a>P
 
 - **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
+- **[PayExpresse - PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
+- **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/bcdbuddy/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/bcdbuddy)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**

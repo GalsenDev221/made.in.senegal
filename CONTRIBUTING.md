@@ -1,6 +1,6 @@
 # Contribute to this Project
 
-👋🏽 Thanks for showing interest and helping out <br>
+👋🏽 Thanks for showing interest and helping out  
 If you get stuck somewhere, contact us on **[Twitter](https://twitter.com/galsendev221)** 🤙🏾
 
 ## Requirements 🎯

@@ -61,14 +61,13 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="O"> </a>O
 
-- **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
-
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange Sms Ruby is a client library that allow you to send sms from a RoR app using the Orange Sms API. **by [@bayevels](https://github.com/bayevels)**
+- **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 
-- **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PayExpresse - PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
+- **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/bcdbuddy/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/bcdbuddy)**
@@ -82,6 +81,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="S"> </a>S
 
 - **[Samane](https://github.com/ngorseckframework/samanemvc)** - PHP Framework using MVC model developped by Ngor SECK. **by [@ngorseckframework](https://github.com/ngorseckframework)**
+- **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. **by [@okemamy](https://github.com/okemamy)**
 - **[senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="T"> </a>T

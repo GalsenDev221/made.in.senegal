@@ -32,6 +32,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="F"> </a>F
 
 - **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. **by [@diop](https://github.com/diop)**
+- **[flutter-news-app](https://github.com/bacarybruno/flutter-news-app)** - A simple news app built with Flutter (Provider Architecture) and using Wordpress REST API. **by [@bacarybruno](https://github.com/bacarybruno)**
 
 ## <a name="G"> </a>G
 
@@ -48,6 +49,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="J"> </a>J
 
 ## <a name="K"> </a>K
+- **[@kebetoo/camera-roll-picker](https://github.com/bacarybruno/camera-roll-picker)** - A React Native CameraRoll picker. **by [@bacarybruno](https://github.com/bacarybruno)**
 
 ## <a name="L"> </a>L
 

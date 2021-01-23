@@ -18,6 +18,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="B"> </a>B
 
+- **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics-frontend-components-collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C

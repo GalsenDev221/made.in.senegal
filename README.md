@@ -67,6 +67,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange Sms Ruby is a client library that allow you to send sms from a RoR app using the Orange Sms API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit-JWT Helper]()** - **orbit-jwt** is a small and unopinionated library that is useful for automatically attaching a [JSON Web Token (JWT)](http://jwt.io/introduction) as an `Authorization` header when making HTTP requests from an Angular 10+ app. It also has a number of helper methods that are useful for doing things like decoding JWTs, etc.**by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 

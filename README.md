@@ -30,6 +30,8 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="E"> </a>E
 
+- **[etat](https://github.com/Code-for-Senegal/etat)** - Directory of public websites in Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+
 ## <a name="F"> </a>F
 
 - **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. **by [@diop](https://github.com/diop)**
@@ -55,7 +57,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="L"> </a>L
 
-- **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). **by [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
+- **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). **by [@Shadoworker](https://github.com/Shadoworker)**
 
 ## <a name="M"> </a>M
 
@@ -103,10 +105,11 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="X"> </a>X
 
-- **[Xoos.js](https://github.com/Shadoworker/Xoos.js)** - JS based SVG drawing framework. **by [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
+- **[Xex Corona](https://github.com/DevOlutionLab/xex-corona-app)** - Web app for the eradication of the virus (Covid19) in Senegal. **by [@DevOlutionLab](https://github.com/DevOlutionLab)**
+- **[Xoos.js](https://github.com/Shadoworker/Xoos.js)** - JS based SVG drawing framework. **by [@Shadoworker](https://github.com/Shadoworker)**
 
 ## <a name="Y"> </a>Y
 
 ## <a name="Z"> </a>Z
 
-- **[ZakuJS](https://github.com/Shadoworker/ZakuJS)** - ZakuJS is a JS framework for dealing with svg path rigging and transition (animation). **by [@Shadoworker](https://github.com/Shadoworker/LaliaSprite)**
+- **[ZakuJS](https://github.com/Shadoworker/ZakuJS)** - ZakuJS is a JS framework for dealing with svg path rigging and transition (animation). **by [@Shadoworker](https://github.com/Shadoworker)**

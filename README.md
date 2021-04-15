@@ -14,7 +14,8 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="A"> </a>A
 
-- **[ANGULAR-11-JWT-AUTH-FRONT-CLIENT](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Angular 11 JWT AUTH Front Client](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="B"> </a>B
 
@@ -53,7 +54,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="K"> </a>K
 
-- **[@kebetoo/camera-roll-picker](https://github.com/bacarybruno/camera-roll-picker)** - A React Native CameraRoll picker. **by [@bacarybruno](https://github.com/bacarybruno)**
+- **[Kebetoo](https://github.com/bacarybruno/camera-roll-picker)** - A React Native CameraRoll picker. **by [@bacarybruno](https://github.com/bacarybruno)**
 
 ## <a name="L"> </a>L
 
@@ -69,7 +70,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange Sms Ruby is a client library that allow you to send sms from a RoR app using the Orange Sms API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Orbit-JWT Helper]()** - **orbit-jwt** is a small and unopinionated library that is useful for automatically attaching a [JSON Web Token (JWT)](http://jwt.io/introduction) as an `Authorization` header when making HTTP requests from an Angular 10+ app. It also has a number of helper methods that are useful for doing things like decoding JWTs, etc.**by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit JWT Helper]()** - **orbit-jwt** is a small and unopinionated library that is useful for automatically attaching a [JSON Web Token (JWT)](http://jwt.io/introduction) as an `Authorization` header when making HTTP requests from an Angular 10+ app. It also has a number of helper methods that are useful for doing things like decoding JWTs, etc.**by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 

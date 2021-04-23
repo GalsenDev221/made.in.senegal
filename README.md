@@ -64,13 +64,13 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="N"> </a>N
 
-- **[NestJs MongoDB Base Crud Api](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. **by [@babacarbasse](https://github.com/babacarbasse)**
+- **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. **by [@babacarbasse](https://github.com/babacarbasse)**
 
 ## <a name="O"> </a>O
 
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange Sms Ruby is a client library that allow you to send sms from a RoR app using the Orange Sms API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Orbit JWT Helper]()** - **orbit-jwt** is a small and unopinionated library that is useful for automatically attaching a [JSON Web Token (JWT)](http://jwt.io/introduction) as an `Authorization` header when making HTTP requests from an Angular 10+ app. It also has a number of helper methods that are useful for doing things like decoding JWTs, etc.**by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app.**by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 
@@ -85,6 +85,9 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="Q"> </a>Q
 
 ## <a name="R"> </a>R
+
+- **[React Native Drag Drop](https://github.com/VolkenoMakers/react-native-drag-drop)** - A module for your React Native projects, which allows you to set up a drag and drop system, giving the elements to move and the columns as parameters. **by [@VolkenoMakers](https://github.com/VolkenoMakers)**
+- **[React Native Login](https://github.com/VolkenoMakers/react-native-login)** - This adjustable module allows you to simplify your life with all that is creation of email verification login field. **by [@VolkenoMakers](https://github.com/VolkenoMakers)**
 
 ## <a name="S"> </a>S
 

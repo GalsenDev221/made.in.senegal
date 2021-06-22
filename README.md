@@ -88,6 +88,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 - **[React Native Drag Drop](https://github.com/VolkenoMakers/react-native-drag-drop)** - A module for your React Native projects, which allows you to set up a drag and drop system, giving the elements to move and the columns as parameters. **by [@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Native Login](https://github.com/VolkenoMakers/react-native-login)** - This adjustable module allows you to simplify your life with all that is creation of email verification login field. **by [@VolkenoMakers](https://github.com/VolkenoMakers)**
+- **[React Tools](https://github.com/Pispros/react-tools)** - A simple way to generate react components, pages.. with a single command and even use Redux. **by [@Pispros](https://github.com/Pispros)**
 
 ## <a name="S"> </a>S
 

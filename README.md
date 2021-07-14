@@ -19,8 +19,8 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="B"> </a>B
 
-- **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics-frontend-components-collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java 😁. **by [@MedouneSGB](https://github.com/MedouneSGB)**
+- **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics-frontend-components-collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Bitcoin Compiling and Test Running on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 

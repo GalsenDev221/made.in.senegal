@@ -34,6 +34,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="E"> </a>E
 
 - **[Etat](https://github.com/Code-for-Senegal/etat)** - Directory of public websites in Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+- **[Ethereum's private chain creation and testing](https://github.com/nourou4them/ethereum_sn)** - A full shell script to install geth and its dependencies on a CentOS vm, initialize the ethereum blockchain, and create a private chain and new addresses as a sample. **by [@nourou4them](https://github.com/nourou4them)**
 
 ## <a name="F"> </a>F
 

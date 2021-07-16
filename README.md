@@ -20,7 +20,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="B"> </a>B
 
 - **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics-frontend-components-collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
-- - **[Bitcoin Compiling and Test Running on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
+- **[Bitcoin Compiling and Test Running on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C
@@ -33,6 +33,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="E"> </a>E
 
 - **[Etat](https://github.com/Code-for-Senegal/etat)** - Directory of public websites in Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+- **[Ethereum's private chain creation and testing](https://github.com/nourou4them/ethereum_sn)** - A full shell script to install geth and its dependencies on a CentOS vm, initialize the ethereum blockchain, and create a private chain and new addresses as a sample. **by [@nourou4them](https://github.com/nourou4them)**
 
 ## <a name="F"> </a>F
 

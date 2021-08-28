@@ -27,7 +27,8 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="C"> </a>C
 
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. **by [@riftone07](https://github.com/riftone07)**
-- **[COVID-19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
+- **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. **by [@cheikhomarsow](https://github.com/cheikhomarsow)**
+- **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
 
 ## <a name="D"> </a>D
 

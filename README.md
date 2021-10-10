@@ -44,7 +44,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="G"> </a>G
 
-- **[GalsenDev First Contributions](https://github.com/Galsen-Dev-LAB/galsendev-first-contributions)** - Help newbies to contribute on open source projects. **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
+- **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev-first-contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 
@@ -84,7 +84,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Python Weekly](https://github.com/Galsen-Dev-LAB/python-weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@Galsen-Dev-LAB](https://github.com/Galsen-Dev-LAB)**
+- **[Python Weekly](https://github.com/GalsenDev221/python-weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@GalsenDev221](https://github.com/GalsenDev221)**
 
 ## <a name="Q"> </a>Q
 

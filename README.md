@@ -119,7 +119,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="Y"> </a>Y
 
-- **[Yombal DOM](https://github.com/honorableCon/yombal-dom)** - Un petit utiities pour faciliter l'interaction avec le DOM. **by [@HonorableCon](https://github.com/honorableCon)**
+- **[Yombal DOM](https://github.com/honorableCon/yombal-dom)** - A small utilities to facilitate interaction with the DOM. **by [@HonorableCon](https://github.com/honorableCon)**
 
 ## <a name="Z"> </a>Z
 

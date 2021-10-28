@@ -119,6 +119,8 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="Y"> </a>Y
 
+- **[Yombal DOM](https://github.com/honorableCon/yombal-dom)** - A small utilities to facilitate interaction with the DOM. **by [@HonorableCon](https://github.com/honorableCon)**
+
 ## <a name="Z"> </a>Z
 
 - **[ZakuJS](https://github.com/Shadoworker/ZakuJS)** - ZakuJS is a JS framework for dealing with svg path rigging and transition (animation). **by [@Shadoworker](https://github.com/Shadoworker)**

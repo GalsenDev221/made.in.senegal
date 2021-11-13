@@ -69,6 +69,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="N"> </a>N
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. **by [@babacarbasse](https://github.com/babacarbasse)**
+- **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project.  **by [@DerXter](https://github.com/DerXter)**
 
 ## <a name="O"> </a>O
 

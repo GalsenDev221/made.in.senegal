@@ -13,11 +13,11 @@ No special skills are required, just knowing how to handle an MD file and have a
 
 To add a new project to the collection, please ensure they respect the following requirements arranged in order of importance ⭐
 
-* Check first if the project you want to add is not on the list.
+* The project must be open source.
 
 * The project must be "**Made in Senegal**" as the name implies.
 
-* The project must be open source.
+* Check first if the project you want to add is not on the list.
 
 * Try to add the project to it's appropriate alphabetical location.
 

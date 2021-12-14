@@ -25,6 +25,9 @@ To add a new project to the collection, please ensure they respect the following
 
 * The project must have global use - meaning it's not made just for use by Senegalese and there really is no geographical limitation for anyone that may be interested in using this project.
 
+⚠️ Please if you are a project maintainer avoid changing your username and project name, it will be reflected in the links.  
+Or if you do anyway, please update the project (s) you added.
+
 ### Jajeuf 😜
 
 Commit your changes to your fork of this repo, send a *PR* that contains detailed information about your change.

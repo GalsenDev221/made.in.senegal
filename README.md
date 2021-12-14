@@ -1,6 +1,19 @@
 # Made In Senegal <img src="assets/made.in.senegal.png" width="50px" />
 
-![made-in-senegal](https://img.shields.io/badge/made%20in-senegal-red) ![galsen-dev](https://img.shields.io/badge/galsen%20dev-community-blue)
+<p>
+  <!-- Ko-Fi for donation -->
+  <a href="https://ko-fi.com/galsendev221">
+    <img alt="ko--fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
+  <!-- Discord server -->
+  <a href="https://discord.gg/CKZcKqf">
+    <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <!-- Twitter community -->
+  <a href="https://twitter.com/galsendev221">
+    <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
 
 👨🏽‍💻 This is a collection of tools built by Senegalese developers that can be used by anyone all over the world 🌍
 
@@ -8,7 +21,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 🚧 If you want to contribute on this project, please read **[CONTRIBUTING.md](CONTRIBUTING.md)** first !
 
-<div align="center">
+<div>
 <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
 </div>
 
@@ -79,10 +92,15 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="P"> </a>P
 
+- **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
+<<<<<<< HEAD
 - **[Population Analyze](https://github.com/Dar-rius/PopulationAnalyze)** - Analyze the human population from a Kaggle dataset. **by [@Dar-rius](https://github.com/Dar-rius)**
+=======
+- **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). **by [@touskar](https://github.com/touskar)**
+>>>>>>> 117f940623ad5e8cd6777277480ebc1c31975c8f
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
@@ -101,7 +119,8 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 - **[Samane](https://github.com/ngorseckframework/samanemvc)** - PHP Framework using MVC model developped by Ngor SECK. **by [@ngorseckframework](https://github.com/ngorseckframework)**
 - **[Sard Form](https://https://github.com/mouhamed1296/sard-form)** - A React Component Library for building and maintaining Form easily by using a declarative way where the code can be readed and understood like a simple text. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. **by [@okemamy](https://github.com/okemamy)**
-- **[senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Spicy Object](https://https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 
 ## <a name="T"> </a>T
 

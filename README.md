@@ -82,6 +82,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
+- **[Population Analyze](https://github.com/Dar-rius/PopulationAnalyze)** - Analyze the human population from a Kaggle dataset. **by [@Dar-rius](https://github.com/Dar-rius)**
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**

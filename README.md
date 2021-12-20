@@ -136,7 +136,7 @@ This project is available **[HERE](https://madeinsenegal.dev/)** 🚀
 
 ## <a name="X"> </a>X
 
-- **[Xex Corona](https://github.com/DevOlutionLab/xex-corona-app)** - Web app for the eradication of the virus (Covid19) in Senegal. **by [@DevOlutionLab](https://github.com/DevOlutionLab)**
+- **[Xex Corona](https://github.com/DevOlutionLab/xex-corona)** - Web app for the eradication of the virus (Covid19) in Senegal. **by [@DevOlutionLab](https://github.com/DevOlutionLab)**
 - **[Xoos.js](https://github.com/Shadoworker/Xoos.js)** - JS based SVG drawing framework. **by [@Shadoworker](https://github.com/Shadoworker)**
 
 ## <a name="Y"> </a>Y

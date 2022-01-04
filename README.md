@@ -36,9 +36,11 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 </p>
 
 <p align="center">
-  <pre align="center">
-    <code>[![made-in-senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)</code>
-  </pre>
+<pre align="center">
+  <code>
+  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  </code>
+</pre>
 </p>
 
 <p align="center">

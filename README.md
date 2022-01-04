@@ -28,6 +28,22 @@
 ---
 
 <p align="center">
+<a href="https://github.com/GalsenDev221/made.in.senegal"><img src="assets/badge.svg"></a>
+</p>
+
+<p align="center">
+If you are the maintainer of a project, you can add our badge by copying the code below into your GitHub project.
+</p>
+
+<p align="center">
+<pre align="center">
+  <code>
+  [![made-in-senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  </code>
+</pre>
+</p>
+
+<p align="center">
 🚧 If you want to contribute on this project, please read <strong><a href="https://github.com/GalsenDev221/made.in.senegal/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a></strong> first !
 </p>
 

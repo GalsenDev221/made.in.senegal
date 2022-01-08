@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-If you are the maintainer of a project, you can add our badge by copying the code below into your GitHub project.
+If you are the maintainer of a project, you can add our badge by copying the code below into your GitHub project description.
 </p>
 
 <p align="center">
@@ -117,7 +117,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Orange SMS API](https://github.com/honorableCon/OrangeSMS-API)** - This gem aims to let you quickly send SMS from JavaScript and Python using the Orange SMS API. **by [@honorableCon](https://github.com/honorableCon)**
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app.**by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 

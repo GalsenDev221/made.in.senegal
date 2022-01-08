@@ -19,6 +19,8 @@ To add a new project to the collection, please ensure they respect the following
 
 * Check first if the project you want to add is not on the list.
 
+* The project must have a clear description.
+
 * Try to add the project to it's appropriate alphabetical location.
 
 * Ensure to provide the GitHub url of the creator of the project.

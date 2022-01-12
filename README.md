@@ -105,7 +105,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. **by [@okemamy](https://github.com/okemamy)**
 - **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. **by [@mouhamed1296](https://github.com/mouhamed1296)**
-- **[Sunu News Webscrapper](https://https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. **by [@mouhamed1296](https://github.com/mouhamed1296)**
+- **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 
 ## <a name="T"> </a>T
 

@@ -2,6 +2,10 @@
 
 ![made-in-senegal](https://img.shields.io/badge/made%20in-senegal-red) ![galsen-dev](https://img.shields.io/badge/galsen%20dev-community-blue)
 
+  
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  
+
 👨🏽‍💻 This is a collection of tools built by Senegalese developers that can be used by anyone all over the world 🌍
 
 This project is available **[HERE](https://madein.galsendev.com/)** 🚀

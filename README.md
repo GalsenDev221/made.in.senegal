@@ -1,16 +1,51 @@
-# Made In Senegal <img src="assets/made.in.senegal.png" width="50px" />
+![COVER](assets/cover.png)
 
-![made-in-senegal](https://img.shields.io/badge/made%20in-senegal-red) ![galsen-dev](https://img.shields.io/badge/galsen%20dev-community-blue)
+<h1 align="center">
+  <img src="assets/made.in.senegal.png" width="100px" />
+  <br/>
+  <a href="https://madeinsenegal.dev/" target="blank_">Made In Senegal</a>
+</h1>
 
-  
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
-  
+<p align="center">
+  <!-- Ko-Fi for donation -->
+  <a href="https://ko-fi.com/galsendev221">
+    <img alt="ko--fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
+  </a>
+  <!-- Discord server -->
+  <a href="https://discord.gg/CKZcKqf">
+    <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  <!-- Twitter community -->
+  <a href="https://twitter.com/galsendev221">
+    <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+</p>
 
+<p align="center">
 👨🏽‍💻 This is a collection of tools built by Senegalese developers that can be used by anyone all over the world 🌍
+</p>
 
-This project is available **[HERE](https://madein.galsendev.com/)** 🚀
+---
 
-🚧 If you want to contribute on this project, please read **[CONTRIBUTING.md](CONTRIBUTING.md)** first !
+<p align="center">
+<a href="https://github.com/GalsenDev221/made.in.senegal"><img src="assets/badge.svg"></a>
+</p>
+
+<p align="center">
+If you are the maintainer of a project, you can add our badge by copying the code below into your GitHub project description.
+</p>
+
+<p align="center">
+<pre align="center">
+  <code>
+  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
+  </code>
+</pre>
+</p>
+
+<p align="center">
+🚧 If you want to contribute on this project, please read <strong><a href="https://github.com/GalsenDev221/made.in.senegal/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a></strong> first !
+</p>
 
 <div align="center">
 <a href="#A">A</a> | <a href="#B">B</a> | <a href="#C">C</a> | <a href="#D">D</a> | <a href="#E">E</a> | <a href="#F">F</a> | <a href="#G">G</a> | <a href="#H">H</a> | <a href="#I">I</a> | <a href="#J">J</a> | <a href="#K">K</a> | <a href="#L">L</a> | <a href="#M">M</a> | <a href="#N">N</a> | <a href="#O">O</a> | <a href="#P">P</a> | <a href="#Q">Q</a> | <a href="#R">R</a> | <a href="#S">S</a> | <a href="#T">T</a> | <a href="#U">U</a> | <a href="#V">V</a> | <a href="#W">W</a> | <a href="#X">X</a> | <a href="#Y">Y</a> | <a href="#Z">Z</a>
@@ -23,7 +58,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="B"> </a>B
 
-- **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java 😁. **by [@MedouneSGB](https://github.com/MedouneSGB)**
+- **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. **by [@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics-frontend-components-collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Bitcoin Compiling and Test Running on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
@@ -31,6 +66,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="C"> </a>C
 
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. **by [@riftone07](https://github.com/riftone07)**
+- **[Chat room with Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. **by [@cheikhomarsow](https://github.com/cheikhomarsow)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
 
@@ -48,11 +84,12 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="G"> </a>G
 
-- **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev-first-contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 
 ## <a name="H"> </a>H
+- **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for HacktoberFest Hackaton 2021 organized by GalsenDEV & LinuxSenegal. **by [@GalsenDev221](https://github.com/GalsenDev221)**
 
 ## <a name="I"> </a>I
 
@@ -73,22 +110,28 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 ## <a name="N"> </a>N
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. **by [@babacarbasse](https://github.com/babacarbasse)**
+- **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project.  **by [@DerXter](https://github.com/DerXter)**
 
 ## <a name="O"> </a>O
 
-- **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange Sms Ruby is a client library that allow you to send sms from a RoR app using the Orange Sms API. **by [@bayevels](https://github.com/bayevels)**
+- **[Orange SMS API](https://github.com/honorableCon/OrangeSMS-API)** - This gem aims to let you quickly send SMS from JavaScript and Python using the Orange SMS API. **by [@honorableCon](https://github.com/honorableCon)**
+- **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app.**by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 
+- **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A Node JS integration of paps.sn API. **by [@babacarcissedia](https://github.com/babacarcissedia)**
+- **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
+- **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). **by [@touskar](https://github.com/touskar)**
+- **[Population Analyze](https://github.com/Dar-rius/PopulationAnalyze)** - Analyze the human population from a Kaggle dataset. **by [@Dar-rius](https://github.com/Dar-rius)**
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Python Weekly](https://github.com/GalsenDev221/python-weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[Python Weekly](https://github.com/GalsenDev221/python.weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@GalsenDev221](https://github.com/GalsenDev221)**
 
 ## <a name="Q"> </a>Q
 
@@ -109,7 +152,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="T"> </a>T
 
-- **[Taarú](https://github.com/daoodaba975/taaru)** - A nice VS Code theme with Senegalese beauty, for coding the world. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Taarú](https://github.com/daoodaba975/taaru)** - A collection of pretty dark VS Code theme with Senegalese beauty. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="U"> </a>U
 
@@ -121,7 +164,7 @@ This project is available **[HERE](https://madein.galsendev.com/)** 🚀
 
 ## <a name="X"> </a>X
 
-- **[Xex Corona](https://github.com/DevOlutionLab/xex-corona-app)** - Web app for the eradication of the virus (Covid19) in Senegal. **by [@DevOlutionLab](https://github.com/DevOlutionLab)**
+- **[Xex Corona](https://github.com/DevOlutionLab/xex-corona)** - Web app for the eradication of the virus (Covid19) in Senegal. **by [@DevOlutionLab](https://github.com/DevOlutionLab)**
 - **[Xoos.js](https://github.com/Shadoworker/Xoos.js)** - JS based SVG drawing framework. **by [@Shadoworker](https://github.com/Shadoworker)**
 
 ## <a name="Y"> </a>Y

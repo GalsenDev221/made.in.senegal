@@ -53,9 +53,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="A"> </a>A
 
-- **[Angular 11 JWT AUTH Front Client](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Angular 11 JWT Auth Front Client](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Algo-Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. Make PR to add yours.(*NOT MAINTAINED ANYMORE*) **by [@orbitturner](https://github.com/orbitturner)**
+- **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. Make PR to add yours.(*NOT MAINTAINED ANYMORE*) **by [@orbitturner](https://github.com/orbitturner)**
 
 
 ## <a name="B"> </a>B
@@ -71,13 +71,13 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Chat room with Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. **by [@cheikhomarsow](https://github.com/cheikhomarsow)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
-- **[CLEAN-CODE](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. **by [@OrbitTurner](https://github.com/orbitturner)**
+- **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. **by [@OrbitTurner](https://github.com/orbitturner)**
 
 ## <a name="D"> </a>D
 
 - **[DevOps Resources](https://github.com/orbitturner/devops-resources)** - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP. **by [@OrbitTurner](https://github.com/orbitturner)**
-- **[DESIGN PATTERN : DECORATOR](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. **by [@OrbitTurner](https://github.com/orbitturner)**
-- **[DEV-SVG-ICONS](https://github.com/orbitturner/development.svg.icons)** - Collection of development icons in SVG format. **by [@OrbitTurner](https://github.com/orbitturner)**
+- **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. **by [@OrbitTurner](https://github.com/orbitturner)**
+- **[Dev SVG Icons](https://github.com/orbitturner/development.svg.icons)** - Collection of development icons in SVG format. **by [@OrbitTurner](https://github.com/orbitturner)**
 
 ## <a name="E"> </a>E
 
@@ -101,7 +101,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="I"> </a>I
 
 - **[Indigo](https://github.com/diop/indigo)** - An image transformation utility written in Go. **by [@diop](https://github.com/diop)**
-- **[IMPLICIT-SFTP-FILE-SENDER](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)** - A Powershell script using WINSCP for sending files to an Remote Implicit SFTP server. The program also have File Change detection system for sending automatically the most recent File in the [CONTAINER] folder. **by [@OrbitTurner](https://github.com/orbitturner)**
+- **[Implicit SFTP File Sender](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)** - A Powershell script using WINSCP for sending files to an Remote Implicit SFTP server. The program also have File Change detection system for sending automatically the most recent File in the [CONTAINER] folder. **by [@OrbitTurner](https://github.com/orbitturner)**
 
 ## <a name="J"> </a>J
 
@@ -122,12 +122,11 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="O"> </a>O
 
-- **[ORBIT-CHAIN](https://github.com/orbitturner/ORBITCHAIN)** - A Blockchain made by someone who is making his first steps into the Crypto and Web3 world. **by [@OrbitTurner](https://github.com/orbitturner)**
+- **[Orbit Chain](https://github.com/orbitturner/ORBITCHAIN)** - A Blockchain made by someone who is making his first steps into the Crypto and Web3 world. **by [@OrbitTurner](https://github.com/orbitturner)**
 - **[Orange SMS API](https://github.com/honorableCon/OrangeSMS-API)** - This gem aims to let you quickly send SMS from JavaScript and Python using the Orange SMS API. **by [@honorableCon](https://github.com/honorableCon)**
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app. **by [@orbitturner](https://github.com/orbitturner)**
-
 
 ## <a name="P"> </a>P
 

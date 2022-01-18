@@ -55,7 +55,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Angular 11 JWT Auth Front Client](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. Make PR to add yours.(*NOT MAINTAINED ANYMORE*) **by [@orbitturner](https://github.com/orbitturner)**
+- **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. (*NOT MAINTAINED ANYMORE*) **by [@orbitturner](https://github.com/orbitturner)**
 
 
 ## <a name="B"> </a>B

@@ -78,6 +78,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. **by [@OrbitTurner](https://github.com/orbitturner)**
 - **[Dev SVG Icons](https://github.com/orbitturner/development.svg.icons)** - Collection of development icons in SVG format. **by [@OrbitTurner](https://github.com/orbitturner)**
 - **[DevOps Resources](https://github.com/orbitturner/devops-resources)** - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP. **by [@OrbitTurner](https://github.com/orbitturner)**
+- **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 
 ## <a name="E"> </a>E
 
@@ -116,6 +117,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). **by [@Shadoworker](https://github.com/Shadoworker)**
 
 ## <a name="M"> </a>M
+
+- **[Manifeste](https://github.com/Code-for-Senegal/manifeste)** - The manifesto for the innovation of IT of the State of Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 
 ## <a name="N"> </a>N
 

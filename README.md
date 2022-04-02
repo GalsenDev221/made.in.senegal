@@ -61,7 +61,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="B"> </a>B
 
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. **by [@MedouneSGB](https://github.com/MedouneSGB)**
-- **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics-frontend-components-collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Bitcoin Compiling and Test Running on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 
@@ -161,10 +161,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Samane](https://github.com/ngorseckframework/samanemvc)** - PHP Framework using MVC model developped by Ngor SECK. **by [@ngorseckframework](https://github.com/ngorseckframework)**
 - **[Sard Form](https://https://github.com/mouhamed1296/sard-form)** - A React Component Library for building and maintaining Form easily by using a declarative way where the code can be readed and understood like a simple text. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. **by [@okemamy](https://github.com/okemamy)**
-- **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal-YouTuber-Dev-List)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal.youtuber.dev.list)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. **by [@mouhamed1296](https://github.com/mouhamed1296)**
-
 
 ## <a name="T"> </a>T
 

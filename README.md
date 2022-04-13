@@ -115,8 +115,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="L"> </a>L
 
 - **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). **by [@Shadoworker](https://github.com/Shadoworker)**
-
-- **[Laravel-PHP 8.1: build production docker image](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel docker image for production and push it on Docker Hub **by [@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Laravel-PHP 8.1 : build production Docker image](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 
 ## <a name="M"> </a>M
 

@@ -170,6 +170,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="T"> </a>T
 
 - **[Taarú](https://github.com/daoodaba975/taaru)** - A collection of pretty dark VS Code theme with Senegalese beauty. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Tawfekh-Editor](https://github.com/MedouneSGB/Tawfekh-Editor)** - A beautiful and customizable text editor.✨. **by [@MedouneSGB](https://github.com/MedouneSGB)**
 
 ## <a name="U"> </a>U
 
@@ -180,6 +181,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="W"> </a>W
 
 - **[Windows PGSQL Auto Backuper](https://gist.github.com/orbitturner/edaca12b34baf4e293781055cc3816a4)** - This is a batch script to backup the database using PostgreSQL backup utility "pg_dump". You can add this script to the Windows Task Scheduler and define your custom backup routine. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Waxtane](https://github.com/MedouneSGB/Waxtane)** - Le Wolof the simple way ?! Waxtane est un receuil de phrases de discussion en Wolof, Francais et Anglais.✨ **by [@MedouneSGB](https://github.com/MedouneSGB)**
 
 ## <a name="X"> </a>X
 

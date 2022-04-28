@@ -85,6 +85,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Etat](https://github.com/Code-for-Senegal/etat)** - Directory of public websites in Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 - **[Ethereum's private chain creation and testing](https://github.com/nourou4them/ethereum_sn)** - A full shell script to install geth and its dependencies on a CentOS vm, initialize the ethereum blockchain, and create a private chain and new addresses as a sample. **by [@nourou4them](https://github.com/nourou4them)**
 - **[Exlogrn](https://github.com/daoodaba975/exlogrn)** - A simple React Native Expo Login template starter app. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Expo Splashscreen Generator](https://github.com/Sidibedev/expo-splashscreen-generator)** - This allows you to generate a splashscreen compatible to Expo. **by [@Sidibedev](https://github.com/Sidibedev)**
 
 ## <a name="F"> </a>F
 

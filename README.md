@@ -148,6 +148,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Python Drools SDK](https://github.com/PapiHack/python-drools-sdk)** - A Python client library for interacting with a Drools KIE Server. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Python Weekly](https://github.com/GalsenDev221/python.weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@GalsenDev221](https://github.com/GalsenDev221)**
 
 ## <a name="Q"> </a>Q

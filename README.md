@@ -101,6 +101,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="H"> </a>H
 
 - **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for HacktoberFest Hackaton 2021 organized by GalsenDEV & LinuxSenegal. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="I"> </a>I
 

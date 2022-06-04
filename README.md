@@ -176,6 +176,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Taarú](https://github.com/daoodaba975/taaru)** - A collection of pretty dark VS Code theme with Senegalese beauty. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Tawfekh Editor](https://github.com/MedouneSGB/Tawfekh-Editor)** - A beautiful and customizable text editor. **by [@MedouneSGB](https://github.com/MedouneSGB)**
+- **[Teere](https://github.com/0SansNom/teere)** - Audio books in Wolof. **by [@0SansNom](https://github.com/0SansNom)**
 
 ## <a name="U"> </a>U
 

@@ -76,8 +76,6 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="D"> </a>D
 
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. **by [@OrbitTurner](https://github.com/orbitturner)**
-- **[Dev SVG Icons](https://github.com/orbitturner/development.svg.icons)** - Collection of development icons in SVG format. **by [@OrbitTurner](https://github.com/orbitturner)**
-- **[DevOps Resources](https://github.com/orbitturner/devops-resources)** - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP. **by [@OrbitTurner](https://github.com/orbitturner)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 
 ## <a name="E"> </a>E

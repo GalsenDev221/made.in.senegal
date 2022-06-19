@@ -54,21 +54,21 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="A"> </a>A
 
 - **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. (*NOT MAINTAINED ANYMORE*) **by [@orbitturner](https://github.com/orbitturner)**
-- **[Amazon Textract Response to CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. **by [@JoeDalton24](https://github.com/JoeDalton24)**
-- **[Angular 11 JWT Auth Front Client](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. **by [@JoeDalton24](https://github.com/JoeDalton24)**
+- **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="B"> </a>B
 
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. **by [@MedouneSGB](https://github.com/MedouneSGB)**
-- **[Basics Frontend Components Collections](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
-- **[Bitcoin Compiling and Test Running on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
+- **[Basics Frontend Components](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Bitcoin on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. **by [@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C
 
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. **by [@riftone07](https://github.com/riftone07)**
-- **[Chat room with Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. **by [@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Chatroom Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. **by [@OrbitTurner](https://github.com/orbitturner)**
 - **[Connectivity Bloc](https://pub.dev/packages/connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. **by [@cheikhomarsow](https://github.com/cheikhomarsow)**
@@ -77,15 +77,14 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="D"> </a>D
 
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. **by [@OrbitTurner](https://github.com/orbitturner)**
-- **[Dev SVG Icons](https://github.com/orbitturner/development.svg.icons)** - Collection of development icons in SVG format. **by [@OrbitTurner](https://github.com/orbitturner)**
-- **[DevOps Resources](https://github.com/orbitturner/devops-resources)** - DevOps resources - Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP. **by [@OrbitTurner](https://github.com/orbitturner)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 
 ## <a name="E"> </a>E
 
 - **[Etat](https://github.com/Code-for-Senegal/etat)** - Directory of public websites in Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
-- **[Ethereum's private chain creation and testing](https://github.com/nourou4them/ethereum_sn)** - A full shell script to install geth and its dependencies on a CentOS vm, initialize the ethereum blockchain, and create a private chain and new addresses as a sample. **by [@nourou4them](https://github.com/nourou4them)**
+- **[Ethereum's Private Chain](https://github.com/nourou4them/ethereum_sn)** - A full shell script to install geth and its dependencies on a CentOS vm, initialize the ethereum blockchain, and create a private chain and new addresses as a sample. **by [@nourou4them](https://github.com/nourou4them)**
 - **[Exlogrn](https://github.com/daoodaba975/exlogrn)** - A simple React Native Expo Login template starter app. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Expo Splashscreen Generator](https://github.com/Sidibedev/expo-splashscreen-generator)** - This allows you to generate a splashscreen compatible to Expo. **by [@Sidibedev](https://github.com/Sidibedev)**
 
 ## <a name="F"> </a>F
 
@@ -101,6 +100,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="H"> </a>H
 
 - **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for HacktoberFest Hackaton 2021 organized by GalsenDEV & LinuxSenegal. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. **by [@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="I"> </a>I
 
@@ -116,8 +116,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="L"> </a>L
 
 - **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). **by [@Shadoworker](https://github.com/Shadoworker)**
-
-- **[Laravel-PHP 8.1: build production docker image](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel docker image for production and push it on Docker Hub **by [@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Laravel (PHP 8.1) build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 
 ## <a name="M"> </a>M
 
@@ -133,6 +132,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Orange SMS API](https://github.com/honorableCon/OrangeSMS-API)** - This gem aims to let you quickly send SMS from JavaScript and Python using the Orange SMS API. **by [@honorableCon](https://github.com/honorableCon)**
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. **by [@bayevels](https://github.com/bayevels)**
 - **[Orbit Chain](https://github.com/orbitturner/ORBITCHAIN)** - A Web Based Blockchain Demo & Exlanation made for those who are making their first steps into the Blockchain/Crypto and Web3 world. **by [@OrbitTurner](https://github.com/orbitturner)**
+- **[Orbit Encoder](https://github.com/orbitturner/ORBIT-ENCODER)** - An utility library for Data Compression and Encoding. It can take whatever object you give him as argument and returns a compressed encoded string. It provides a decoding method too. It uses a modified version of LZString for Compression. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
 
@@ -148,6 +148,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. **by [@diop](https://github.com/diop)**
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Pulaar Dictionary](https://github.com/Medikan/pulaar-dictionary)** - Online Pulaar dictionary for the Hallpulaaren of Senegal. **by [@Medikan](https://github.com/Medikan)**
+- **[Python Drools SDK](https://github.com/PapiHack/python-drools-sdk)** - A Python client library for interacting with a Drools KIE Server. **by [@PapiHack](https://github.com/PapiHack)**
+- **[Python Utils](https://github.com/bambadiagne/python-utils)** - A repo who contains Python tools This tool create folders and move currents files in each type of extension. **by [@bambadiagne](https://github.com/bambadiagne)**
 - **[Python Weekly](https://github.com/GalsenDev221/python.weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@GalsenDev221](https://github.com/GalsenDev221)**
 
 ## <a name="Q"> </a>Q
@@ -171,6 +174,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="T"> </a>T
 
 - **[Taarú](https://github.com/daoodaba975/taaru)** - A collection of pretty dark VS Code theme with Senegalese beauty. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Tawfekh Editor](https://github.com/MedouneSGB/Tawfekh-Editor)** - A beautiful and customizable text editor. **by [@MedouneSGB](https://github.com/MedouneSGB)**
+- **[Teere](https://github.com/0SansNom/teere)** - Audio books in Wolof. **by [@0SansNom](https://github.com/0SansNom)**
 
 ## <a name="U"> </a>U
 
@@ -180,6 +185,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="W"> </a>W
 
+- **[Waxtane](https://github.com/MedouneSGB/Waxtane)** - The Wolof the simple way ?! Waxtane is a collection of discussion phrases in Wolof, French and English. **by [@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Windows PGSQL Auto Backuper](https://gist.github.com/orbitturner/edaca12b34baf4e293781055cc3816a4)** - This is a batch script to backup the database using PostgreSQL backup utility "pg_dump". You can add this script to the Windows Task Scheduler and define your custom backup routine. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="X"> </a>X

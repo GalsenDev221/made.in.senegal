@@ -70,7 +70,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. **by [@riftone07](https://github.com/riftone07)**
 - **[Chatroom Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. **by [@OrbitTurner](https://github.com/orbitturner)**
-- **[Connectivity Bloc](https://pub.dev/packages/connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. **by [@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. **by [@cheikhomarsow](https://github.com/cheikhomarsow)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
 

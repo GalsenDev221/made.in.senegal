@@ -153,6 +153,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Python Utils](https://github.com/bambadiagne/python-utils)** - A repo who contains Python tools This tool create folders and move currents files in each type of extension. **by [@bambadiagne](https://github.com/bambadiagne)**
 - **[Python Weekly](https://github.com/GalsenDev221/python.weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@GalsenDev221](https://github.com/GalsenDev221)**
 
+- **[Python Coding Challenge](https://github.com/mbayedione10/PythonCodingChallenge)** - Practice your Python skills with these programming challenges on problem-Solving and data Structure. **by [@mbayedione10](https://github.com/mbayedione10)**
+
 ## <a name="Q"> </a>Q
 
 ## <a name="R"> </a>R

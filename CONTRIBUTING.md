@@ -21,9 +21,11 @@ To add a new project to the collection, please ensure they respect the following
 
 * The project must have a clear description.
 
-* Try to add the project to it's appropriate alphabetical location.
+* Please try to add the project to it's appropriate alphabetical location.
 
-* Ensure to provide the GitHub url of the creator of the project.
+* Do not add a forked project on which you have not made major changes.
+
+* Ensure to provide the good GitHub url of the creator of the project.
 
 * The project must have global use - meaning it's not made just for use by Senegalese and there really is no geographical limitation for anyone that may be interested in using this project.
 

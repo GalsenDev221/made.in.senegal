@@ -32,7 +32,7 @@
 </p>
 
 <p align="center">
-If you are the maintainer of a project, you can add our badge by copying the code below into your GitHub project description.
+If you are the maintainer of a project, you can add our badge by copying the code below ⬇️ into your GitHub project description.
 </p>
 
 <p align="center">
@@ -140,7 +140,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A Node JS integration of paps.sn API. **by [@babacarcissedia](https://github.com/babacarcissedia)**
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
-- **[Password generator and cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. **by [@bambadiagne](https://github.com/bambadiagne)**
+- **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. **by [@bambadiagne](https://github.com/bambadiagne)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
@@ -154,6 +154,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Python Drools SDK](https://github.com/PapiHack/python-drools-sdk)** - A Python client library for interacting with a Drools KIE Server. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Python Utils](https://github.com/bambadiagne/python-utils)** - A repo who contains Python tools This tool create folders and move currents files in each type of extension. **by [@bambadiagne](https://github.com/bambadiagne)**
 - **[Python Weekly](https://github.com/GalsenDev221/python.weekly)** - Python Weekly is a collection of some little tips with Python every week (for 10 weeks). **by [@GalsenDev221](https://github.com/GalsenDev221)**
+
 ## <a name="Q"> </a>Q
 
 ## <a name="R"> </a>R
@@ -172,6 +173,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Supabackup](https://github.com/honorableCon/supabackup)** - A node package, that allows you to easily perform your supabase backup operations for free. This package creates a backup of your given database tables. **by [@honorablecon](https://github.com/honorablecon)**
+
 ## <a name="T"> </a>T
 
 - **[Taarú](https://github.com/daoodaba975/taaru)** - A collection of pretty dark VS Code theme with Senegalese beauty. **by [@daoodaba975](https://github.com/daoodaba975)**

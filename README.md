@@ -60,6 +60,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="B"> </a>B
 
+- **[Babstrap Settings Screen](https://github.com/babstrap/babstrap_settings_screen)** - This package helps you to display a nice settings screen with Flutter in a very simple and fast way. **by [@babstrap](https://github.com/babstrap)**
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. **by [@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Basics Frontend Components](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Bitcoin on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**

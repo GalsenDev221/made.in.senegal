@@ -143,7 +143,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. **by [@bambadiagne](https://github.com/bambadiagne)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
-- **[Paytech Flutter](https://github.com/touskar/paytech-flutter)** - A Paytech SDK integration for flutter. **by [@touskar](https://github.com/touskar)**
+- **[Paytech Flutter](https://github.com/touskar/paytech-flutter)** - A Paytech SDK integration for Flutter. **by [@touskar](https://github.com/touskar)**
 - **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). **by [@touskar](https://github.com/touskar)**

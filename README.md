@@ -60,6 +60,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="B"> </a>B
 
+- **[Babstrap Settings Screen](https://github.com/babstrap/babstrap_settings_screen)** - This package helps you to display a nice settings screen with Flutter in a very simple and fast way. **by [@babstrap](https://github.com/babstrap)**
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. **by [@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Basics Frontend Components](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Bitcoin on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). **by [@nourou4them](https://github.com/nourou4them)**
@@ -142,6 +143,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. **by [@bambadiagne](https://github.com/bambadiagne)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
+- **[Paytech Flutter](https://github.com/touskar/paytech-flutter)** - A Paytech SDK integration for Flutter. **by [@touskar](https://github.com/touskar)**
 - **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP library boilerplate that allow you to quickly start building your next awesome composer package. **by [@PapiHack](https://github.com/PapiHack)**
 - **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). **by [@touskar](https://github.com/touskar)**

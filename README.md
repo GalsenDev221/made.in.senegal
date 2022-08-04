@@ -188,7 +188,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="U"> </a>U
 
 ## <a name="V"> </a>V
-
+- **[VIT(Vision transformer)](https://github.com/lodjim/VIT)** - This is a simple implementation of VIT. **by [@lodjim](https://github.com/lodjim)**
+- 
 - **[VS Code Mediaplayer](https://github.com/sir-kain/vscode-mediaplayer)** - Mediaplayer extention for VS Code. **by [@sir-kain](https://github.com/sir-kain)**
 
 ## <a name="W"> </a>W

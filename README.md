@@ -55,7 +55,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. (*NOT MAINTAINED ANYMORE*) **by [@orbitturner](https://github.com/orbitturner)**
 - **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. **by [@JoeDalton24](https://github.com/JoeDalton24)**
-- **[ANGULAR VPS DEPLOYMENT](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the *NgTinyConf2022* was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the *NgTinyConf2022* was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. **by [@orbitturner](https://github.com/orbitturner)**
 
@@ -133,12 +133,12 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Orange SMS API](https://github.com/honorableCon/OrangeSMS-API)** - This gem aims to let you quickly send SMS from JavaScript and Python using the Orange SMS API. **by [@honorableCon](https://github.com/honorableCon)**
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. **by [@bayevels](https://github.com/bayevels)**
-- **[Orbit Mind](https://github.com/orbitturner/Orbit-Mind)** - My personal Knowledge Base, Cheat-Sheets and Notes for various projects, tools and technologies. **by [@orbitturner](https://github.com/orbitturner)**
-- **[Orbit ToolBox](https://github.com/orbitturner/orbit-toolbox)** - Orbit ToolBox is an Toolbox regrouping many utilities for everyday task. It's built with Angular and was born during the NG Tiny Conf 2022. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Chain](https://github.com/orbitturner/ORBITCHAIN)** - A Web Based Blockchain Demo & Exlanation made for those who are making their first steps into the Blockchain/Crypto and Web3 world. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Encoder](https://github.com/orbitturner/ORBIT-ENCODER)** - An utility library for Data Compression and Encoding. It can take whatever object you give him as argument and returns a compressed encoded string. It provides a decoding method too. It uses a modified version of LZString for Compression. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an `Authorization` header when making HTTP requests from an Angular 10+ app. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit Mind](https://github.com/orbitturner/Orbit-Mind)** - My personal Knowledge Base, Cheat-Sheets and Notes for various projects, tools and technologies. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. **by [@orbitturner](https://github.com/orbitturner)**
+- **[Orbit ToolBox](https://github.com/orbitturner/orbit-toolbox)** - Orbit ToolBox is an Toolbox regrouping many utilities for everyday task. It's built with Angular and was born during the NG Tiny Conf 2022. **by [@orbitturner](https://github.com/orbitturner)**
 
 ## <a name="P"> </a>P
 

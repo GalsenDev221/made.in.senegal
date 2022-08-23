@@ -83,7 +83,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="E"> </a>E
 
-- **[Easy firestore](https://github.com/Alkaly02/easy-firestore)** - Get firebase data collection in the simpliest way. **by [@Moussa Alkaly BADJI](https://github.com/Alkaly02)**
+- **[Easy Firestore](https://github.com/Alkaly02/easy-firestore)** - Get Firebase data collection in the simpliest way. **by [@Alkaly02](https://github.com/Alkaly02)**
 - **[Etat](https://github.com/Code-for-Senegal/etat)** - Directory of public websites in Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 - **[Ethereum's Private Chain](https://github.com/nourou4them/ethereum_sn)** - A full shell script to install geth and its dependencies on a CentOS vm, initialize the ethereum blockchain, and create a private chain and new addresses as a sample. **by [@nourou4them](https://github.com/nourou4them)**
 - **[Exlogrn](https://github.com/daoodaba975/exlogrn)** - A simple React Native Expo Login template starter app. **by [@daoodaba975](https://github.com/daoodaba975)**

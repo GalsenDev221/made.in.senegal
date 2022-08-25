@@ -97,6 +97,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="G"> </a>G
 
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 

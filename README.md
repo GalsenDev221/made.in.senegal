@@ -83,7 +83,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="E"> </a>E
 
-- **[Easy firestore](https://github.com/Alkaly02/easy-firestore)** - Get firebase data collection in the simpliest way. **by [@Moussa Alkaly BADJI](https://github.com/Alkaly02)**
+- **[Easy Firestore](https://github.com/Alkaly02/easy-firestore)** - Get Firebase data collection in the simpliest way. **by [@Alkaly02](https://github.com/Alkaly02)**
 - **[Etat](https://github.com/Code-for-Senegal/etat)** - Directory of public websites in Senegal. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 - **[Ethereum's Private Chain](https://github.com/nourou4them/ethereum_sn)** - A full shell script to install geth and its dependencies on a CentOS vm, initialize the ethereum blockchain, and create a private chain and new addresses as a sample. **by [@nourou4them](https://github.com/nourou4them)**
 - **[Exlogrn](https://github.com/daoodaba975/exlogrn)** - A simple React Native Expo Login template starter app. **by [@daoodaba975](https://github.com/daoodaba975)**
@@ -97,6 +97,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="G"> </a>G
 
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 

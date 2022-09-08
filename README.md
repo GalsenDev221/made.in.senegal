@@ -110,6 +110,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Implicit SFTP File Sender](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)** - A Powershell script using WINSCP for sending files to an Remote Implicit SFTP server. The program also have File Change detection system for sending automatically the most recent File in the [CONTAINER] folder. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Indigo](https://github.com/diop/indigo)** - An image transformation utility written in Go. **by [@diop](https://github.com/diop)**
+- **[Internet Connectivity Checker](https://github.com/HamadaHiro/internet_connectivity_checker)** - The Flutter package that helps you easily manage dynamic widgets based on the device's internet access. **by [@HamadaHiro](https://github.com/HamadaHiro)**
 
 ## <a name="J"> </a>J
 

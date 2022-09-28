@@ -80,6 +80,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. **by [@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+- **[Document Templating Service](https://github.com/PapiHack/document-templating-service)** - A simple and lightweight service that allows you to process your word document with the variables defined therein by injecting the necessary data that you will provide and return the result in PDF. **by [@PapiHack](https://github.com/PapiHack)**
 
 ## <a name="E"> </a>E
 

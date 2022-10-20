@@ -98,6 +98,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="G"> </a>G
 
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
+- **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. **by [@honorableCon](https://github.com/honorableCon)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. **by [@daoodaba975](https://github.com/daoodaba975)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
@@ -160,6 +161,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal, Payexpress, and so on. **by [@bcdbuddy](https://github.com/babacarcissedia)**
 - **[Projects Spatium](https://github.com/orbitturner/PROJECTS_SPATIUM)** - This is a Folder / Projects Organizer web Page for serveur or Folders that contains many subfolders. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Pulaar Dictionary](https://github.com/Medikan/pulaar-dictionary)** - Online Pulaar dictionary for the Hallpulaaren of Senegal. **by [@Medikan](https://github.com/Medikan)**
+- **[Puppeteer Google](https://github.com/joedioufy/puppeteer-google)** - Automatically sign in with Google using Puppeteer. **by [@joedioufy](https://github.com/joedioufy)**
 - **[Python Coding Challenge](https://github.com/mbayedione10/PythonCodingChallenge)** - Practice your Python skills with these programming challenges on problem-Solving and data Structure. **by [@mbayedione10](https://github.com/mbayedione10)**
 - **[Python Drools SDK](https://github.com/PapiHack/python-drools-sdk)** - A Python client library for interacting with a Drools KIE Server. **by [@PapiHack](https://github.com/PapiHack)**
 - **[Python Utils](https://github.com/bambadiagne/python-utils)** - A repo who contains Python tools This tool create folders and move currents files in each type of extension. **by [@bambadiagne](https://github.com/bambadiagne)**

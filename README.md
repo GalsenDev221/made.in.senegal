@@ -58,7 +58,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the *NgTinyConf2022* was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. **by [@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. **by [@orbitturner](https://github.com/orbitturner)**
-- **[ AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on Json Web Server(JWT) node and mongodb. **by [@honorableCon](https://github.com/honorableCon)**
+- **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node and MongoDB. **by [@honorableCon](https://github.com/honorableCon)**
 
 ## <a name="B"> </a>B
 

@@ -101,6 +101,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. **by [@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. **by [@honorableCon](https://github.com/honorableCon)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. **by [@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. **by [@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. **by [@NDOY3M4N](https://github.com/NDOY3M4N)**
 
@@ -149,7 +150,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="P"> </a>P
 
-- **[Panorama Generator](https://github.com/TiDev00/Panorama)** - A python tool in order to generate a panorama from images using Harris Corner Detector and RANSAC. **by [@TiDev00](https://github.com/TiDev00)**
+- **[Panorama Generator](https://github.com/TiDev00/Panorama)** - A Python tool in order to generate a panorama from images using Harris Corner Detector and RANSAC. **by [@TiDev00](https://github.com/TiDev00)**
 - **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A Node JS integration of paps.sn API. **by [@babacarcissedia](https://github.com/babacarcissedia)**
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. **by [@bambadiagne](https://github.com/bambadiagne)**
@@ -184,7 +185,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Sard Form](https://github.com/mouhamed1296/sard-form)** - A React Component Library for building and maintaining Form easily by using a declarative way where the code can be readed and understood like a simple text. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. **by [@okemamy](https://github.com/okemamy)**
 - **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal.youtuber.dev.list)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
-- **[Sgml Parser & Converter](https://github.com/TiDev00/Sgml_Parser)** - A python tool in order to parse sgml files mainly from WMT and convert the result into txt files for Neural Machine Translation systems. **by [@TiDev00](https://github.com/TiDev00)**
+- **[SGML Parser & Converter](https://github.com/TiDev00/Sgml_Parser)** - A Python tool in order to parse SGML files mainly from WMT and convert the result into txt files for Neural Machine Translation systems. **by [@TiDev00](https://github.com/TiDev00)**
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Supabackup](https://github.com/honorableCon/supabackup)** - A node package, that allows you to easily perform your supabase backup operations for free. This package creates a backup of your given database tables. **by [@honorablecon](https://github.com/honorablecon)**

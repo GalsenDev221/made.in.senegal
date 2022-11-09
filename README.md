@@ -149,6 +149,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="P"> </a>P
 
+- **[Panorama Generator](https://github.com/TiDev00/Panorama)** - A python tool in order to generate a panorama from images using Harris Corner Detector and RANSAC. **by [@TiDev00](https://github.com/TiDev00)**
 - **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A Node JS integration of paps.sn API. **by [@babacarcissedia](https://github.com/babacarcissedia)**
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. **by [@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. **by [@bambadiagne](https://github.com/bambadiagne)**
@@ -183,6 +184,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Sard Form](https://github.com/mouhamed1296/sard-form)** - A React Component Library for building and maintaining Form easily by using a declarative way where the code can be readed and understood like a simple text. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. **by [@okemamy](https://github.com/okemamy)**
 - **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal.youtuber.dev.list)** - A list of Senegalese development channels on YouTube. **by [@daoodaba975](https://github.com/daoodaba975)**
+- **[Sgml Parser & Converter](https://github.com/TiDev00/Sgml_Parser)** - A python tool in order to parse sgml files mainly from WMT and convert the result into txt files for Neural Machine Translation systems. **by [@TiDev00](https://github.com/TiDev00)**
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. **by [@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Supabackup](https://github.com/honorableCon/supabackup)** - A node package, that allows you to easily perform your supabase backup operations for free. This package creates a backup of your given database tables. **by [@honorablecon](https://github.com/honorablecon)**

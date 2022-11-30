@@ -76,6 +76,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. **by [@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. **by [@cheikhomarsow](https://github.com/cheikhomarsow)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. **by [@senegalouvert](https://github.com/senegalouvert)**
+- **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. **by [@bambadiagne](https://github.com/bambadiagne)**
 
 ## <a name="D"> </a>D
 

@@ -103,6 +103,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. by **[@honorableCon](https://github.com/honorableCon)**
+- **[Galsenify](https://github.com/daoodaba975/galsenify)** -  A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. by **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. by **[@eliaswalyba](https://github.com/eliaswalyba)**

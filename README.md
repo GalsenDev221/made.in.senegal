@@ -106,6 +106,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. by **[@honorableCon](https://github.com/honorableCon)**
 - **[Galsenify](https://github.com/daoodaba975/galsenify)** -  A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**
+- **[Git Local Stats](https://github.com/JoeDalton24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[GitHub User Stats](https://github.com/bambadiagne/github-user-stats)** An API with (Flask + GraphQL + Cron) to retrieve statistics from GitHub users according to defined criteria. by **[@bambadiagne](https://github.com/bambadiagne)**
 - **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. by **[@Dar-rius](https://github.com/Dar-rius)**

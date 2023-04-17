@@ -53,11 +53,11 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="A"> </a>A
 
-- **[Algo Repo](https://github.com/orbitturner/reposTDAlgoP3Simplon)** - Repository of some Algorithmic exercice for those who want to make their first steps into the Dev World. (_NOT MAINTAINED ANYMORE_) by **[@orbitturner](https://github.com/orbitturner)**
 - **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the _NgTinyConf2022_ was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Assign Issue Action](https://github.com/takanome-dev/assign-issue-action)** - A GitHub action that assign issues based on "/assign-me" command (or whatever command you want to use). by **[@takanome-dev](https://github.com/takanome-dev)**
 - **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node and MongoDB. by **[@honorableCon](https://github.com/honorableCon)**
 
 ## <a name="B"> </a>B
@@ -66,6 +66,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. by **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Basics Frontend Components](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Bitcoin on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). by **[@nourou4them](https://github.com/nourou4them)**
+- **[Blog Hive](https://github.com/takanome-dev/BlogHive)** - A community-driven platform for bloggers to improve their skills and connect with like-minded individuals. by **[@takanome-dev](https://github.com/takanome-dev)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. by **[@diop](https://github.com/diop)**
 
 ## <a name="C"> </a>C
@@ -141,6 +142,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="M"> </a>M
 
 - **[Manifeste](https://github.com/Code-for-Senegal/manifeste)** - The manifesto for the innovation of IT of the State of Senegal. by **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+- **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and Typescript rules setup for NextJS and NestJS apps. by **[@takanome-dev](https://github.com/takanome-dev)**
 
 ## <a name="N"> </a>N
 

@@ -104,6 +104,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="G"> </a>G
 
+- **[GalsenApi](https://github.com/sibylassana95/GalsenAPi)** - GalsenApi is an API that allows you to easily manipulate data about Senegal. by **[@sibylassana95](https://github.com/sibylassana95)**
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. by **[@honorableCon](https://github.com/honorableCon)**
 - **[Galsenify](https://github.com/daoodaba975/galsenify)** -  A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**

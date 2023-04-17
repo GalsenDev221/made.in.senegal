@@ -109,6 +109,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Git Local Stats](https://github.com/JoeDalton24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[GitHub User Stats](https://github.com/bambadiagne/github-user-stats)** An API with (Flask + GraphQL + Cron) to retrieve statistics from GitHub users according to defined criteria. by **[@bambadiagne](https://github.com/bambadiagne)**
+- **[GoPass](https://github.com/NDOY3M4N/gopass)** A super basic CLI app for generating password. by **[@NDOY3M4N](https://github.com/NDOY3M4N)**
 - **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. by **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. by **[@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. by **[@NDOY3M4N](https://github.com/NDOY3M4N)**

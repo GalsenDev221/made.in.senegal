@@ -114,6 +114,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Gproject](https://github.com/Dar-rius/gprojectl)** - Gproject is a CLI that allows you to quickly access your projects without typing many commands to navigate between your folders. by **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. by **[@eliaswalyba](https://github.com/eliaswalyba)**
 - **[Gulp Playground](https://github.com/NDOY3M4N/gulp-playground)** - A starter project for static website. by **[@NDOY3M4N](https://github.com/NDOY3M4N)**
+- **[GalsenApi](https://github.com/sibylassana95/GalsenAPi)** - GalsenApi est une API qui vous permet de manipuler facilement des données sur le Sénégal. by **[@sibylassana95](https://github.com/sibylassana95)**
 
 ## <a name="H"> </a>H
 

@@ -101,6 +101,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="F"> </a>F
 
 - **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. by **[@diop](https://github.com/diop)**
+- **[Flutter Dexchange SMS](https://github.com/aliounekanoute/flutter_dexchange_sms)** - Flutter package for [dexchange sms API](https://dexchange-sms.com/), you can send SMS, send OTP and verify it. by **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Flutter News App](https://github.com/bacarybruno/flutter-news-app)** - A simple news app built with Flutter (Provider Architecture) and using Wordpress REST API. by **[@bacarybruno](https://github.com/bacarybruno)**
 
 ## <a name="G"> </a>G

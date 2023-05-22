@@ -82,7 +82,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="D"> </a>D
 
-- **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and JAVA. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and Java. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Dexchange SMS NPM](https://github.com/Denver-sn/dexchange-sms-npm)** - Dexchange SMS is a Node.js module that provides a simple way to interact with the Dexchange SMS API. by **[@Denver-sn](https://github.com/Denver-sn)**
 - **[Dj Tracker](https://github.com/tijani-dia/dj-tracker)** - A Django app that helps monitor and optimise your queries. by **[@tijani-dia](https://github.com/tijani-dia)**
 - **[Django React App](https://github.com/Mahmoud-Barry/django-react-app)** - React application already configured to be used in a Django project as a Django application. by **[@Mahmoud-Barry](https://github.com/Mahmoud-Barry)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. by **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
@@ -101,7 +102,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="F"> </a>F
 
 - **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. by **[@diop](https://github.com/diop)**
-- **[Flutter Dexchange SMS](https://github.com/aliounekanoute/flutter_dexchange_sms)** - Flutter package for [dexchange sms API](https://dexchange-sms.com/), you can send SMS, send OTP and verify it. by **[@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Flutter Dexchange SMS](https://github.com/aliounekanoute/flutter_dexchange_sms)** - Flutter package for [Dexchange SMS API](https://dexchange-sms.com/), you can send SMS, send OTP and verify it. by **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Flutter News App](https://github.com/bacarybruno/flutter-news-app)** - A simple news app built with Flutter (Provider Architecture) and using Wordpress REST API. by **[@bacarybruno](https://github.com/bacarybruno)**
 
 ## <a name="G"> </a>G
@@ -109,7 +110,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[GalsenApi](https://github.com/sibylassana95/GalsenAPi)** - GalsenApi is an API that allows you to easily manipulate data about Senegal. by **[@sibylassana95](https://github.com/sibylassana95)**
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. by **[@honorableCon](https://github.com/honorableCon)**
-- **[Galsenify](https://github.com/daoodaba975/galsenify)** -  A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**
+- **[Galsenify](https://github.com/daoodaba975/galsenify)** - A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Local Stats](https://github.com/JoeDalton24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[GitHub User Stats](https://github.com/bambadiagne/github-user-stats)** An API with (Flask + GraphQL + Cron) to retrieve statistics from GitHub users according to defined criteria. by **[@bambadiagne](https://github.com/bambadiagne)**
@@ -150,7 +151,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="N"> </a>N
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. by **[@babacarbasse](https://github.com/babacarbasse)**
-- **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project.  by **[@DerXter](https://github.com/DerXter)**
+- **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project. by **[@DerXter](https://github.com/DerXter)**
 
 ## <a name="O"> </a>O
 

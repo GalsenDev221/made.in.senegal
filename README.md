@@ -191,6 +191,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="R"> </a>R
 
+- **[React Flexible List](https://github.com/Alkaly02/react-flexible-list)** - Helps you make responsive layout without any media query or using a third CSS library. by **[@JoeDalton24](https://github.com/Alkaly02)**
 - **[React Multy CSV Viewer](https://github.com/JoeDalton24/react-multy-csv-viewer)** - React component to visualize CSV file. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[React Native Drag Drop](https://github.com/VolkenoMakers/react-native-drag-drop)** - A module for your React Native projects, which allows you to set up a drag and drop system, giving the elements to move and the columns as parameters. by **[@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Native Login](https://github.com/VolkenoMakers/react-native-login)** - This adjustable module allows you to simplify your life with all that is creation of email verification login field. by **[@VolkenoMakers](https://github.com/VolkenoMakers)**

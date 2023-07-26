@@ -79,6 +79,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. by **[@cheikhomarsow](https://github.com/cheikhomarsow)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. by **[@senegalouvert](https://github.com/senegalouvert)**
 - **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. by **[@bambadiagne](https://github.com/bambadiagne)**
+- **[Country flag code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. by **[@MIdiop](https://github.com/MJdiop/)**
+
 
 ## <a name="D"> </a>D
 

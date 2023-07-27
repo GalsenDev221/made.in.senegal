@@ -77,9 +77,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. by **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. by **[@cheikhomarsow](https://github.com/cheikhomarsow)**
+- **[Country flag code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. by **[@MIdiop](https://github.com/MJdiop/)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. by **[@senegalouvert](https://github.com/senegalouvert)**
 - **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. by **[@bambadiagne](https://github.com/bambadiagne)**
-- **[Country flag code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. by **[@MIdiop](https://github.com/MJdiop/)**
 
 
 ## <a name="D"> </a>D

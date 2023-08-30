@@ -227,8 +227,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Waxtane](https://github.com/MedouneSGB/Waxtane)** - The Wolof the simple way ?! Waxtane is a collection of discussion phrases in Wolof, French and English. by **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[WestAfrica Economic Data](https://github.com/Ousmaneleye/WestAfrica_economic_data)** - Visualisation of West Africa's economics data. by **[@Ousmaneleye](https://github.com/Ousmaneleye)**
 - **[Windows PGSQL Auto Backuper](https://gist.github.com/orbitturner/edaca12b34baf4e293781055cc3816a4)** - This is a batch script to backup the database using PostgreSQL backup utility "pg_dump". You can add this script to the Windows Task Scheduler and define your custom backup routine. by **[@orbitturner](https://github.com/orbitturner)**
-- **[Wolof IA](https://github.com/Dar-rius/Wolof_IA)** - A web application to train machine learning models to understand messages in Wolof in order to categorize them thanks to the labeling messages entered by visitors in the application. by **[Dar-rius](https://github.com/Dar-rius)**
+- **[Wolof IA](https://github.com/Dar-rius/Wolof_IA)** - A web application to train machine learning models to understand messages in Wolof in order to categorize them thanks to the labeling messages entered by visitors in the application. by **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Wolof Spell Checker](https://github.com/TiDev00/Wolof_SpellChecker)** - Automatic spell checking and correction for Wolof language. by **[TiDev00](https://github.com/TiDev00)**
+- **[Wolof Subtitle Generator](https://github.com/lodjim/wolof-subtitle-generator)** - Allows you to generate Wolof subtitles for audio files and to create videos with embedded subtitles. by **[@lodjim](https://github.com/lodjim)**
 
 ## <a name="X"> </a>X
 

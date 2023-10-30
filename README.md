@@ -208,6 +208,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal.youtuber.dev.list)** - A list of Senegalese development channels on YouTube. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[SGML Parser & Converter](https://github.com/TiDev00/Sgml_Parser)** - A Python tool in order to parse SGML files mainly from WMT and convert the result into txt files for Neural Machine Translation systems. by **[@TiDev00](https://github.com/TiDev00)**
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. by **[@mouhamed1296](https://github.com/mouhamed1296)**
+- **[Sprint](https://github.com/zlorgoncho1/sprint)** - A lightweight, high-performance Go web framework focusing on simplicity, with built-in support for JSON & HTML responses. by **[@zlorgoncho1](https://github.com/zlorgoncho1)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. by **[@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Supabackup](https://github.com/honorableCon/supabackup)** - A node package, that allows you to easily perform your supabase backup operations for free. This package creates a backup of your given database tables. by **[@honorablecon](https://github.com/honorablecon)**
 

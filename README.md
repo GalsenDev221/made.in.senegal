@@ -200,7 +200,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[React Native Login](https://github.com/VolkenoMakers/react-native-login)** - This adjustable module allows you to simplify your life with all that is creation of email verification login field. by **[@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Tools](https://github.com/Pispros/react-tools)** - A simple way to generate react components, pages.. with a single command and even use Redux. by **[@Pispros](https://github.com/Pispros)**
 
-- **[React js](https://github.com/latyr0503/site-de-voyage)** - simple site de voyage fait avec react js et tailwind css **[@latyr0503](https://github.com/latyr0503)**
+- **[React js](https://github.com/latyr0503/site-de-voyage)** - simple travel site made with react js and tailwind css **[@latyr0503](https://github.com/latyr0503)**
 
 ## <a name="S"> </a>S
 

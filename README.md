@@ -153,6 +153,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="N"> </a>N
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. by **[@babacarbasse](https://github.com/babacarbasse)**
+- **[Netflix Collection](https://github.com/mouhamedhanne/Netflix_collection)** - Netflix Collection is your perfect companion for easy management of your favorite movies and TV shows. Create your own personalized collection by adding direct links to your favorite films on Netflix, Disney+, Amazon Prime, and other streaming platforms. by **[@mouhamedhanne](https://github.com/mouhamedhanne)**
 - **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project. by **[@DerXter](https://github.com/DerXter)**
 
 ## <a name="O"> </a>O

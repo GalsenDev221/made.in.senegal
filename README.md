@@ -247,3 +247,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="Z"> </a>Z
 
 - **[ZakuJS](https://github.com/Shadoworker/ZakuJS)** - ZakuJS is a JS framework for dealing with svg path rigging and transition (animation). by **[@Shadoworker](https://github.com/Shadoworker)**
+
+
+
+
+- **[Meteo-app](https://github.com/NdeyeAmie/App-Meteo)** - a real-time weather application, only allows you to consult the weather conditions in real time, in satellite or radar view**[@NdeyeAmie](https://github.com/NdeyeAmie/)**
+

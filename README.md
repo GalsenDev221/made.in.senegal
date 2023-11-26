@@ -221,7 +221,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="U"> </a>U
 
-- **[Ultra-Api]([https://github.com/daoodaba975/taaru](https://github.com/bambadiagne/ultra-api))** - This is a optimized RESTful API. It's built with Flask,PostgresSQL,Redis and Docker.The aim is to show the different concepts of a backend(caching,security,...). by **[@bambadiagne](https://github.com/bambadiagne)**
+- **[Ultra-Api]([https://github.com/bambadiagne/ultra-api](https://github.com/bambadiagne/ultra-api))** - This is a optimized RESTful API. It's built with Flask,PostgresSQL,Redis and Docker.The aim is to show the different concepts of a backend(caching,security,...). by **[@bambadiagne](https://github.com/bambadiagne)**
 
 ## <a name="V"> </a>V
 

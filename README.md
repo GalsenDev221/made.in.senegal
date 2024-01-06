@@ -53,6 +53,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="A"> </a>A
 
+- **[Africa Payment SDK Node](https://github.com/tecafrik-git/africa-payment-sdk-node)** - A single SDK to integrate all african payment providers seamlessly. by **[@tecafrik-git](https://github.com/tecafrik-git)**
 - **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. by **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the _NgTinyConf2022_ was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. by **[@orbitturner](https://github.com/orbitturner)**

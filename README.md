@@ -145,6 +145,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Laravel Dev Joke](https://github.com/sissokho/laravel-dev-joke)** - A Laravel package that offer a simple way to fetch a random dev joke from this [DevJoke API](https://documenter.getpostman.com/view/16443297/TzkyLee7). by **[@sissokho](https://github.com/sissokho)**
 - **[Laravel Paytech](https://github.com/babaly/laravel-paytech)** - A package for using Paytech wallet payment platform. by **[@babaly](https://github.com/babaly)**
 - **[Laravel (PHP 8.1) build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. by **[@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Learn Advanced Dart](https://github.com/omar6260/Learn-advanced-dart)** - It is a learning experience of the fundamentals and introduction of new topics. by **[@omar6260](https://github.com/omar6260)**
 
 ## <a name="M"> </a>M
 

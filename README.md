@@ -61,6 +61,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Assign Issue Action](https://github.com/takanome-dev/assign-issue-action)** - A GitHub action that assign issues based on "/assign-me" command (or whatever command you want to use). by **[@takanome-dev](https://github.com/takanome-dev)**
 - **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node and MongoDB. by **[@honorableCon](https://github.com/honorableCon)**
+- **[Awesome AI Papers](https://github.com/aimerou/awesome-ai-papers)** - A curated list of the most impressive AI papers. by **[@aimerou](https://github.com/aimerou)**
 
 ## <a name="B"> </a>B
 

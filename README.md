@@ -87,8 +87,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="D"> </a>D
 
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and Java. by **[@orbitturner](https://github.com/orbitturner)**
-- **[Dexchange SMS NPM](https://github.com/Denver-sn/dexchange-sms-npm)** - Dexchange SMS is a Node.js module that provides a simple way to interact with the Dexchange SMS API. by **[@Denver-sn](https://github.com/Denver-sn)**
-- **[Dexchange PHP](https://github.com/Kepsondiaz/dexchange-php)** - Dexchange PHP is a PHP Software Developement Kit for interacting with Dexchange Api Plateform by **[@Kepsondiaz](https://github.com/Kepsondiaz)**
+- **[Dexchange SMS NPM](https://github.com/Denver-sn/dexchange-sms-npm)** - Dexchange SMS is a NodeJS module that provides a simple way to interact with the Dexchange SMS API. by **[@Denver-sn](https://github.com/Denver-sn)**
+- **[Dexchange PHP](https://github.com/Kepsondiaz/dexchange-php)** - Dexchange PHP is a PHP Software Developement Kit for interacting with Dexchange API Plateform by **[@Kepsondiaz](https://github.com/Kepsondiaz)**
 - **[Directory Mapper](https://github.com/orbitturner/directory-mapper)** - 💡 Unlock the power of directory management with Orbit Directory Mapper! View your file structures in ASCII, JSON, or YAML formats. 🌐 Effortlessly create directory trees using descriptive JSON files. Elevate your file organization game with ease. 🚀🌳. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Dj Tracker](https://github.com/tijani-dia/dj-tracker)** - A Django app that helps monitor and optimise your queries. by **[@tijani-dia](https://github.com/tijani-dia)**
 - **[Django React App](https://github.com/Mahmoud-Barry/django-react-app)** - React application already configured to be used in a Django project as a Django application. by **[@Mahmoud-Barry](https://github.com/Mahmoud-Barry)**

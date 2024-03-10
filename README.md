@@ -253,6 +253,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="Y"> </a>Y
 
 - **[Yombal DOM](https://github.com/honorableCon/yombal-dom)** - A small utilities to facilitate interaction with the DOM. by **[@HonorableCon](https://github.com/honorableCon)**
+- **[Yombal UI](https://github.com/alphajoop/yombal-ui)** - Yombal UI is a library that provides ready-to-use React components for faster development. by **[@alphajoop](https://github.com/alphajoop)**
 
 ## <a name="Z"> </a>Z
 

@@ -146,6 +146,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="L"> </a>L
 
 - **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJs based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). by **[@Shadoworker](https://github.com/Shadoworker)**
+- **[Laraswagger](https://github.com/bamagid/laraswagger)** - Laraswagger simplifies the process of converting exported JSON from Insomnia or Postman into Swagger documentation for Laravel projects. by **[@bamagid](https://github.com/bamagid)**
 - **[Laravel Dev Joke](https://github.com/sissokho/laravel-dev-joke)** - A Laravel package that offer a simple way to fetch a random dev joke from this [DevJoke API](https://documenter.getpostman.com/view/16443297/TzkyLee7). by **[@sissokho](https://github.com/sissokho)**
 - **[Laravel Paytech](https://github.com/babaly/laravel-paytech)** - A package for using Paytech wallet payment platform. by **[@babaly](https://github.com/babaly)**
 - **[Laravel (PHP 8.1) build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. by **[@aliounekanoute](https://github.com/aliounekanoute)**

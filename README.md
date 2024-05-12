@@ -201,7 +201,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="Q"> </a>Q
 
-- **[Quirgo](https://github.com/wilfreud/quirgo-cli)** - A command line interface tool built with TypeScript to easily configure GitHub repositories' secrets and variables during CI/CD processes. by **[@Commodore](https://github.com/wilfreud)**
+- **[Quirgo](https://github.com/wilfreud/quirgo-cli)** - A command line interface tool built with TypeScript to easily configure GitHub repositories' secrets and variables during CI/CD processes. by **[@wilfreud](https://github.com/wilfreud)**
 
 ## <a name="R"> </a>R
 

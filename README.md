@@ -201,6 +201,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="Q"> </a>Q
 
+- **[Quirgo](https://github.com/wilfreud/quirgo-cli)** - A command line interface tool built with TypeScript to easily configure GitHub repositories' secrets and variables during CI/CD processes. by **[@Commodore](https://github.com/wilfreud)**
+
 ## <a name="R"> </a>R
 
 - **[React Flexible List](https://github.com/Alkaly02/react-flexible-list)** - Helps you make responsive layout without any media query or using a third CSS library. by **[@Alkaly02](https://github.com/Alkaly02)**

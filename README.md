@@ -1,5 +1,12 @@
 ![COVER](assets/cover.png)
 
+<p align="center">
+To display the README in French, click on this flag
+<a href="./readmes/README-fr.md">
+  <img src="./assets/flag-of-france.png" alt="France Flag" style="width:20px;height:10px;">
+</a>
+</p>
+
 <h1 align="center">
   <img src="assets/made.in.senegal.png" width="100px" />
   <br/>

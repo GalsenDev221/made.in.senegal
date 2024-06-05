@@ -10,7 +10,7 @@ Pour afficher le README en Anglais, cliquez sur ce drapeau
 <h1 align="center">
   <img src="../assets/made.in.senegal.png" width="100px" />
   <br/>
-  <a href="https://madeinsenegal.dev/" target="blank_">Fait au Sénégal</a>
+  <a href="https://madeinsenegal.dev/" target="blank_">Made In Senegal</a>
 </h1>
 
 <p align="center">

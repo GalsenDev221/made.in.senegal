@@ -55,11 +55,13 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Africa Payment SDK Node](https://github.com/tecafrik-git/africa-payment-sdk-node)** - A single SDK to integrate all african payment providers seamlessly. by **[@tecafrik-git](https://github.com/tecafrik-git)**
 - **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. by **[@JoeDalton24](https://github.com/JoeDalton24)**
+- **[Andromeda](https://github.com/lodjim/andromeda)** - Andromeda is a Golang library that focuses on implementing machine learning and deep learning algorithms with an emphasis on speed. by **[@lodjim](https://github.com/lodjim)**
 - **[Angular VPS Deployment](https://github.com/orbitturner/NG-TINY-CONF-2022-DEMO-APP)** - My presentation during the _NgTinyConf2022_ was to show how to deploy an Angular application in a Virtual Private Server through security, management and configuration of NGINX and some bonuses. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing jwt auth in the front with Angular. by **[@orbitturner](https://github.com/orbitturner)**
-- **[Array Querier](https://github.com/orbitturner/array-querier)** - A TS/JS NPM Package to Filter an array of objects with multiple match-criteria. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Array Querier](https://github.com/orbitturner/array-querier)** - A Ts/Js NPM Package to Filter an array of objects with multiple match-criteria. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Assign Issue Action](https://github.com/takanome-dev/assign-issue-action)** - A GitHub action that assign issues based on "/assign-me" command (or whatever command you want to use). by **[@takanome-dev](https://github.com/takanome-dev)**
 - **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node and MongoDB. by **[@honorableCon](https://github.com/honorableCon)**
+- **[Awesome AI Papers](https://github.com/aimerou/awesome-ai-papers)** - A curated list of the most impressive AI papers. by **[@aimerou](https://github.com/aimerou)**
 
 ## <a name="B"> </a>B
 
@@ -74,6 +76,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="C"> </a>C
 
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. by **[@riftone07](https://github.com/riftone07)**
+- **[ChatGPT CLI](https://github.com/elias-ba/chatgpt-cli)** - A simple command-line interface (CLI) for interacting with OpenAI's ChatGPT model. by **[@elias-ba](https://github.com/elias-ba)**
 - **[Chatroom Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. by **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. by **[@aliounekanoute](https://github.com/aliounekanoute)**
@@ -85,8 +88,9 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="D"> </a>D
 
 - **[Design Pattern : Decorator](https://github.com/orbitturner/Design-Pattern-Decorator)** - An Demonstration Completing the Presentation Slide about the Design Pattern Decorator that i made. The Demos are made with PHP and Java. by **[@orbitturner](https://github.com/orbitturner)**
-- **[Dexchange SMS NPM](https://github.com/Denver-sn/dexchange-sms-npm)** - Dexchange SMS is a Node.js module that provides a simple way to interact with the Dexchange SMS API. by **[@Denver-sn](https://github.com/Denver-sn)**
-- **[Directory Mapper](https://github.com/orbitturner/directory-mapper)** - 💡 Unlock the power of directory management with Orbit Directory Mapper! View your file structures in ASCII, JSON, or YAML formats. 🌐 Effortlessly create directory trees using descriptive JSON files. Elevate your file organization game with ease. 🚀🌳. by **[@orbitturner](https://github.com/orbitturner)**
+- **[Dexchange PHP](https://github.com/Kepsondiaz/dexchange-php)** - Dexchange PHP is a PHP Software Developement Kit for interacting with Dexchange API Plateform. by **[@Kepsondiaz](https://github.com/Kepsondiaz)**
+- **[Dexchange SMS NPM](https://github.com/Denver-sn/dexchange-sms-npm)** - Dexchange SMS is a NodeJS module that provides a simple way to interact with the Dexchange SMS API. by **[@Denver-sn](https://github.com/Denver-sn)**
+- **[Directory Mapper](https://github.com/orbitturner/directory-mapper)** - Unlock the power of directory management with Orbit Directory Mapper! View your file structures in ASCII, JSON, or YAML formats. Effortlessly create directory trees using descriptive JSON files. Elevate your file organization game with ease. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Dj Tracker](https://github.com/tijani-dia/dj-tracker)** - A Django app that helps monitor and optimise your queries. by **[@tijani-dia](https://github.com/tijani-dia)**
 - **[Django React App](https://github.com/Mahmoud-Barry/django-react-app)** - React application already configured to be used in a Django project as a Django application. by **[@Mahmoud-Barry](https://github.com/Mahmoud-Barry)**
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. by **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
@@ -141,19 +145,22 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="L"> </a>L
 
-- **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). by **[@Shadoworker](https://github.com/Shadoworker)**
+- **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJs based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). by **[@Shadoworker](https://github.com/Shadoworker)**
+- **[Laraswagger](https://github.com/bamagid/laraswagger)** - Laraswagger simplifies the process of converting exported JSON from Insomnia or Postman into Swagger documentation for Laravel projects. by **[@bamagid](https://github.com/bamagid)**
 - **[Laravel Dev Joke](https://github.com/sissokho/laravel-dev-joke)** - A Laravel package that offer a simple way to fetch a random dev joke from this [DevJoke API](https://documenter.getpostman.com/view/16443297/TzkyLee7). by **[@sissokho](https://github.com/sissokho)**
 - **[Laravel Paytech](https://github.com/babaly/laravel-paytech)** - A package for using Paytech wallet payment platform. by **[@babaly](https://github.com/babaly)**
 - **[Laravel (PHP 8.1) build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. by **[@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Learn Advanced Dart](https://github.com/omar6260/Learn-advanced-dart)** - It is a learning experience of the fundamentals and introduction of new topics. by **[@omar6260](https://github.com/omar6260)**
 
 ## <a name="M"> </a>M
 
 - **[Manifeste](https://github.com/Code-for-Senegal/manifeste)** - The manifesto for the innovation of IT of the State of Senegal. by **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
-- **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and Typescript rules setup for NextJS and NestJS apps. by **[@takanome-dev](https://github.com/takanome-dev)**
+- **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and Typescript rules setup for NextJs and NestJs apps. by **[@takanome-dev](https://github.com/takanome-dev)**
 
 ## <a name="N"> </a>N
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. by **[@babacarbasse](https://github.com/babacarbasse)**
+- **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/xyhomi3/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. by **[@babacarbasse](https://github.com/xyhomi3)**
 - **[Netflix Collection](https://github.com/mouhamedhanne/Netflix_collection)** - Netflix Collection is your perfect companion for easy management of your favorite movies and TV shows. Create your own personalized collection by adding direct links to your favorite films on Netflix, Disney+, Amazon Prime, and other streaming platforms. by **[@mouhamedhanne](https://github.com/mouhamedhanne)**
 - **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project. by **[@DerXter](https://github.com/DerXter)**
 
@@ -165,7 +172,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. by **[@bayevels](https://github.com/bayevels)**
 - **[Orbit Chain](https://github.com/orbitturner/ORBITCHAIN)** - A Web Based Blockchain Demo & Exlanation made for those who are making their first steps into the Blockchain/Crypto and Web3 world. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Encoder](https://github.com/orbitturner/ORBIT-ENCODER)** - An utility library for Data Compression and Encoding. It can take whatever object you give him as argument and returns a compressed encoded string. It provides a decoding method too. It uses a modified version of LZString for Compression. by **[@orbitturner](https://github.com/orbitturner)**
-- - **[Orbit Fast Data Loader](https://github.com/orbitturner/orbit-fast-data-loader)** - Import or extract massive amounts of data at breathtaking speed with OrbitFastDataLoader ! Available for PostgreSQL and SQL Server, simplify your workflow and get fast results now (10M rows in Less than One Minute). by **[@orbitturner](https://github.com/orbitturner)**
+- **[Orbit Fast Data Loader](https://github.com/orbitturner/orbit-fast-data-loader)** - Import or extract massive amounts of data at breathtaking speed with OrbitFastDataLoader ! Available for PostgreSQL and SQL Server, simplify your workflow and get fast results now (10M rows in Less than One Minute). by **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - Orbit JWT is a small and unopinionated library that is useful for automatically attaching a JSON Web Token (JWT) as an authorization header when making HTTP requests from an Angular 10+ app. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Mind](https://github.com/orbitturner/Orbit-Mind)** - My personal Knowledge Base, Cheat-Sheets and Notes for various projects, tools and technologies. by **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - This is a Funny Easy Simple Lighweight Senegalese PHP Framework that have been made to help Nebies and Pro devs to code in a different way. by **[@orbitturner](https://github.com/orbitturner)**
@@ -174,7 +181,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="P"> </a>P
 
 - **[Panorama Generator](https://github.com/TiDev00/Panorama)** - A Python tool in order to generate a panorama from images using Harris Corner Detector and RANSAC. by **[@TiDev00](https://github.com/TiDev00)**
-- **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A Node JS integration of paps.sn API. by **[@babacarcissedia](https://github.com/babacarcissedia)**
+- **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A NodeJS integration of paps.sn API. by **[@babacarcissedia](https://github.com/babacarcissedia)**
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. by **[@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. by **[@bambadiagne](https://github.com/bambadiagne)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. by **[@PapiHack](https://github.com/PapiHack)**
@@ -195,6 +202,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## <a name="Q"> </a>Q
 
+- **[Quirgo](https://github.com/wilfreud/quirgo-cli)** - A command line interface tool built with TypeScript to easily configure GitHub repositories secrets and variables during CI/CD processes. by **[@wilfreud](https://github.com/wilfreud)**
+
 ## <a name="R"> </a>R
 
 - **[React Flexible List](https://github.com/Alkaly02/react-flexible-list)** - Helps you make responsive layout without any media query or using a third CSS library. by **[@Alkaly02](https://github.com/Alkaly02)**
@@ -202,6 +211,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[React Native Drag Drop](https://github.com/VolkenoMakers/react-native-drag-drop)** - A module for your React Native projects, which allows you to set up a drag and drop system, giving the elements to move and the columns as parameters. by **[@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Native Login](https://github.com/VolkenoMakers/react-native-login)** - This adjustable module allows you to simplify your life with all that is creation of email verification login field. by **[@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Tools](https://github.com/Pispros/react-tools)** - A simple way to generate react components, pages.. with a single command and even use Redux. by **[@Pispros](https://github.com/Pispros)**
+- **[Render WYSIWYG](https://github.com/bakeli-OpenSource/render-wysiwyg)** - Simple component to display GUI Editor know as WYSIWYG. by **[@bakeli-OpenSource](https://github.com/bakeli-OpenSource)**
 
 ## <a name="S"> </a>S
 
@@ -210,10 +220,10 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. by **[@okemamy](https://github.com/okemamy)**
 - **[Senegal YouTuber Dev List](https://github.com/daoodaba975/senegal.youtuber.dev.list)** - A list of Senegalese development channels on YouTube. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[SGML Parser & Converter](https://github.com/TiDev00/Sgml_Parser)** - A Python tool in order to parse SGML files mainly from WMT and convert the result into txt files for Neural Machine Translation systems. by **[@TiDev00](https://github.com/TiDev00)**
-- **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A JS/TS Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. by **[@mouhamed1296](https://github.com/mouhamed1296)**
+- **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A Js/Ts Library that allow developers to easily manipulate JavaScript object by providing a bunch of useful method that will make working with object as simple as working with arrays. by **[@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Sprint](https://github.com/zlorgoncho1/sprint)** - A lightweight, high-performance Go web framework focusing on simplicity, with built-in support for JSON & HTML responses. by **[@zlorgoncho1](https://github.com/zlorgoncho1)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A webscrapper that give you the news from major senegalese news website. by **[@mouhamed1296](https://github.com/mouhamed1296)**
-- **[Supabackup](https://github.com/honorableCon/supabackup)** - A node package, that allows you to easily perform your supabase backup operations for free. This package creates a backup of your given database tables. by **[@honorablecon](https://github.com/honorablecon)**
+- **[Supabackup](https://github.com/honorableCon/supabackup)** - A Node package, that allows you to easily perform your supabase backup operations for free. This package creates a backup of your given database tables. by **[@honorablecon](https://github.com/honorablecon)**
 
 ## <a name="T"> </a>T
 
@@ -242,12 +252,13 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="X"> </a>X
 
 - **[Xex Corona](https://github.com/DevOlutionLab/xex-corona)** - Web app for the eradication of the virus (Covid19) in Senegal. by **[@DevOlutionLab](https://github.com/DevOlutionLab)**
-- **[Xoos.js](https://github.com/Shadoworker/Xoos.js)** - JS based SVG drawing framework. by **[@Shadoworker](https://github.com/Shadoworker)**
+- **[XoosJs](https://github.com/Shadoworker/Xoos.js)** - Js based SVG drawing framework. by **[@Shadoworker](https://github.com/Shadoworker)**
 
 ## <a name="Y"> </a>Y
 
 - **[Yombal DOM](https://github.com/honorableCon/yombal-dom)** - A small utilities to facilitate interaction with the DOM. by **[@HonorableCon](https://github.com/honorableCon)**
+- **[Yombal UI](https://github.com/alphajoop/yombal-ui)** - Yombal UI is a library that provides ready-to-use React components for faster development. by **[@alphajoop](https://github.com/alphajoop)**
 
 ## <a name="Z"> </a>Z
 
-- **[ZakuJS](https://github.com/Shadoworker/ZakuJS)** - ZakuJS is a JS framework for dealing with svg path rigging and transition (animation). by **[@Shadoworker](https://github.com/Shadoworker)**
+- **[ZakuJs](https://github.com/Shadoworker/ZakuJS)** - ZakuJs is a Js framework for dealing with svg path rigging and transition (animation). by **[@Shadoworker](https://github.com/Shadoworker)**

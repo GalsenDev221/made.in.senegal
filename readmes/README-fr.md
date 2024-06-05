@@ -1,5 +1,12 @@
 ![COVER](../assets/cover.png)
 
+<p align="center">
+Pour afficher le README en Anglais, cliquez sur ce drapeau
+<a href="../README.md">
+  <img src="../assets/flag-of-usa.png" alt="USA Flag" style="width:20px;height:10px;">
+</a>
+</p>
+
 <h1 align="center">
   <img src="../assets/made.in.senegal.png" width="100px" />
   <br/>

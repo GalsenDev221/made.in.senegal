@@ -160,6 +160,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="O"> </a>O
 
 - **[Online Wolof Data](https://github.com/WolofProcessing/online_wolof_data)** - Curate online wolof text resources that can be used to build models. by **[@WolofProcessing](https://github.com/WolofProcessing)**
+- **[Open Source Engineering Books](https://github.com/mr-mib/Open-Source-Engineering-Books)** - Collaborative collection of PDF books on engineering, sciences, computer science, soft skills, and more. by **[@mr-mib](https://github.com/mr-mib)**
 - **[Orange SMS API](https://github.com/honorableCon/OrangeSMS-API)** - This gem aims to let you quickly send SMS from JavaScript and Python using the Orange SMS API. by **[@honorableCon](https://github.com/honorableCon)**
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allow you to send SMS from a RoR app using the Orange SMS API. by **[@bayevels](https://github.com/bayevels)**
 - **[Orbit Chain](https://github.com/orbitturner/ORBITCHAIN)** - A Web Based Blockchain Demo & Exlanation made for those who are making their first steps into the Blockchain/Crypto and Web3 world. by **[@orbitturner](https://github.com/orbitturner)**

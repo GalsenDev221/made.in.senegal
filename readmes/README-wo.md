@@ -48,7 +48,7 @@ Sudee kilifa projet nga, mën nga yokk sunu badge soo kopie kode bi ci suuf ⬇�
 </p>
 
 <p align="center">
-🚧 Soo bëggee jàppale ci projet bii, njëkkal jàng <strong><a href="https://github.com/GalsenDev221/made.in.senegal/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a></strong> !
+🚧 Soo bëggee jàppale ci projet bii, njëkkal jàng <strong><a href="../CONTRIBUTING.md">CONTRIBUTING.md</a></strong> !
 </p>
 
 <div align="center">

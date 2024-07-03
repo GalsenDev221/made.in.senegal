@@ -48,7 +48,7 @@ Si vous êtes en charge de projet, vous pouvez ajouter notre badge en copiant le
 </p>
 
 <p align="center">
-🚧 Si vous souhaitez contribuer à ce projet, veuillez lire <strong><a href="https://github.com/GalsenDev221/made.in.senegal/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a></strong> d'abord !
+🚧 Si vous souhaitez contribuer à ce projet, veuillez lire <strong><a href="../CONTRIBUTING.md">CONTRIBUTING.md</a></strong> d'abord !
 </p>
 
 <div align="center">

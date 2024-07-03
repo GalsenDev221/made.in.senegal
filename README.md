@@ -1,16 +1,14 @@
 ![COVER](assets/cover.png)
 
 <p align="center">
-To display the README in French, click on this flag
-<a href="./readmes/README-fr.md">
-  <img src="./assets/flag-of-france.png" alt="France Flag" style="width:20px;height:10px;">
-</a>
+To display the README in
+<a href="./readmes/README-fr.md">French <img src="./assets/fr.png" alt="FR Flag" style="width:20px;height:10px;"></a> or <a href="./readmes/README-wo.md">Wolof <img src="./assets/sn.png" alt="SN Flag" style="width:20px;height:10px;"></a>
 </p>
 
 <h1 align="center">
   <img src="assets/made.in.senegal.png" width="100px" />
   <br/>
-  <a href="https://madeinsenegal.dev/" target="blank_">Made In Senegal</a>
+  <a href="https://madeinsenegal.dev" target="blank_">Made In Senegal</a>
 </h1>
 
 <p align="center">

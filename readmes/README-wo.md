@@ -3,14 +3,14 @@
 <p align="center">
 Soo bëggee gis README ci Àngle, bësal ci bandera bii
 <a href="../README.md">
-  <img src="../assets/flag-of-usa.png" alt="USA Flag" style="width:20px;height:10px;">
+  <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;">
 </a>
 </p>
 
 <h1 align="center">
   <img src="../assets/made.in.senegal.png" width="100px" />
   <br/>
-  <a href="https://madeinsenegal.dev/" target="blank_">Made In Senegal</a>
+  <a href="https://madeinsenegal.dev" target="blank_">Made In Senegal</a>
 </h1>
 
 <p align="center">
@@ -53,3 +53,7 @@ Sudee kilifa projet nga, mën nga yokk sunu badge soo kopie kode bi ci suuf ⬇�
 <p align="center">
 🚧 Soo bëggee jàppale ci projet bii, njëkkal jàng <strong><a href="https://github.com/GalsenDev221/made.in.senegal/blob/master/CONTRIBUTING.md">CONTRIBUTING.md</a></strong> !
 </p>
+
+<div align="center">
+<a href="../README.md/#A">A</a> | <a href="../README.md/#B">B</a> | <a href="../README.md/#C">C</a> | <a href="../README.md/#D">D</a> | <a href="../README.md/#E">E</a> | <a href="../README.md/#F">F</a> | <a href="../README.md/#G">G</a> | <a href="../README.md/#H">H</a> | <a href="../README.md/#I">I</a> | <a href="../README.md/#J">J</a> | <a href="../README.md/#K">K</a> | <a href="../README.md/#L">L</a> | <a href="../README.md/#M">M</a> | <a href="../README.md/#N">N</a> | <a href="../README.md/#O">O</a> | <a href="../README.md/#P">P</a> | <a href="../README.md/#Q">Q</a> | <a href="../README.md/#R">R</a> | <a href="../README.md/#S">S</a> | <a href="../README.md/#T">T</a> | <a href="../README.md/#U">U</a> | <a href="../README.md/#V">V</a> | <a href="../README.md/#W">W</a> | <a href="../README.md/#X">X</a> | <a href="../README.md/#Y">Y</a> | <a href="../README.md/#Z">Z</a>
+</div>

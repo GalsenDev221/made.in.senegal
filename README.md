@@ -1,8 +1,7 @@
 ![COVER](assets/cover.png)
 
 <p align="center">
-To display the README in
-<a href="./readmes/README-fr.md">French <img src="./assets/fr.png" alt="FR Flag" style="width:20px;height:10px;"></a> or <a href="./readmes/README-wo.md">Wolof <img src="./assets/sn.png" alt="SN Flag" style="width:20px;height:10px;"></a>
+To display the README in <a href="./readmes/README-fr.md">French <img src="./assets/fr.png" alt="FR Flag" style="width:20px;height:10px;"></a> or <a href="./readmes/README-wo.md">Wolof <img src="./assets/sn.png" alt="SN Flag" style="width:20px;height:10px;"></a>
 </p>
 
 <h1 align="center">

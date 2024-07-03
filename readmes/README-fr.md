@@ -1,10 +1,7 @@
 ![COVER](../assets/cover.png)
 
 <p align="center">
-Pour afficher le README en Anglais, cliquez sur ce drapeau
-<a href="../README.md">
-  <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;">
-</a>
+Pour afficher le README en <a href="../README.md">Anglais <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;"></a> ou en <a href="README-wo.md">Wolof <img src="../assets/sn.png" alt="SN Flag" style="width:20px;height:10px;"></a>
 </p>
 
 <h1 align="center">

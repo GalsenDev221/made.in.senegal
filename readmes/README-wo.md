@@ -1,10 +1,7 @@
 ![COVER](../assets/cover.png)
 
 <p align="center">
-Soo bëggee gis README ci Àngle, bësal ci bandera bii
-<a href="../README.md">
-  <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;">
-</a>
+Soo bëggee gis README ci <a href="../README.md">Àngle <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;"></a> wala ci <a href="README-fr.md">Français <img src="../assets/fr.png" alt="FR Flag" style="width:20px;height:10px;"></a>
 </p>
 
 <h1 align="center">

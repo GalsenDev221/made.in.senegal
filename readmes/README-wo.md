@@ -1,7 +1,7 @@
 ![COVER](../assets/cover.png)
 
 <p align="center">
-Pour afficher le README en <a href="../README.md">Anglais <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;"></a> ou en <a href="README-wo.md">Wolof <img src="../assets/sn.png" alt="SN Flag" style="width:20px;height:10px;"></a>
+Soo bëggee gis README ci <a href="../README.md">Àngle <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;"></a> wala ci <a href="README-fr.md">Français <img src="../assets/fr.png" alt="FR Flag" style="width:20px;height:10px;"></a>
 </p>
 
 <h1 align="center">
@@ -26,7 +26,7 @@ Pour afficher le README en <a href="../README.md">Anglais <img src="../assets/en
 </p>
 
 <p align="center">
-👨🏽‍💻 Il s'agit d'une collection d'outils construits par des développeurs sénégalais qui peuvent être utilisés par n'importe qui partout dans le monde 🌍
+👨🏽‍💻 Lii ab jumtukaay la bu defarkatu senegaal yi defar te képp man naa ko jëfandikoo fépp fu nga mëna nekk ci àdduna bi 🌍
 </p>
 
 ---
@@ -36,7 +36,7 @@ Pour afficher le README en <a href="../README.md">Anglais <img src="../assets/en
 </p>
 
 <p align="center">
-Si vous êtes en charge de projet, vous pouvez ajouter notre badge en copiant le code ci-dessous ⬇️ dans la description de votre projet GitHub.
+Sudee kilifa projet nga, mën nga yokk sunu badge soo kopie kode bi ci suuf ⬇️ ci sa tegtal projet GitHub.
 </p>
 
 <p align="center">
@@ -48,7 +48,7 @@ Si vous êtes en charge de projet, vous pouvez ajouter notre badge en copiant le
 </p>
 
 <p align="center">
-🚧 Si vous souhaitez contribuer à ce projet, veuillez lire <strong><a href="../CONTRIBUTING.md">CONTRIBUTING.md</a></strong> d'abord !
+🚧 Soo bëggee jàppale ci projet bii, njëkkal jàng <strong><a href="../CONTRIBUTING.md">CONTRIBUTING.md</a></strong> !
 </p>
 
 <div align="center">

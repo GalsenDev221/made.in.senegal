@@ -164,7 +164,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## <a name="N"> </a>N
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. by **[@babacarbasse](https://github.com/babacarbasse)**
-- **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/xyhomi3/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. by **[@babacarbasse](https://github.com/xyhomi3)**
+- **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/xyhomi3/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. by **[@xyhomi3](https://github.com/xyhomi3)**
 - **[Netflix Collection](https://github.com/mouhamedhanne/Netflix_collection)** - Netflix Collection is your perfect companion for easy management of your favorite movies and TV shows. Create your own personalized collection by adding direct links to your favorite films on Netflix, Disney+, Amazon Prime, and other streaming platforms. by **[@mouhamedhanne](https://github.com/mouhamedhanne)**
 - **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project. by **[@DerXter](https://github.com/DerXter)**
 
@@ -233,7 +233,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Taarú](https://github.com/daoodaba975/taaru)** - A collection of pretty dark VS Code theme with Senegalese beauty. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Tawfekh Editor](https://github.com/MedouneSGB/Tawfekh-Editor)** - A beautiful and customizable text editor. by **[@MedouneSGB](https://github.com/MedouneSGB)**
-- **[Tic Tac Toe Game](https://github.com/bambadiagne/tictactoe-react-game)** - Tic Tac Toe multiplayer game implemented using React (client) and NodeJS (server) by **[@bambadiagne](https://github.com/bambadiagne)**
+- **[Tic Tac Toe Game](https://github.com/bambadiagne/tictactoe-react-game)** - Tic Tac Toe multiplayer game implemented using React (client) and NodeJS (server). by **[@bambadiagne](https://github.com/bambadiagne)**
 - **[Teere](https://github.com/0SansNom/teere)** - Audio books in Wolof. by **[@0SansNom](https://github.com/0SansNom)**
 
 ## <a name="U"> </a>U

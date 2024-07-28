@@ -134,7 +134,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for _HacktoberFest Hackaton 2021_ organized by GalsenDEV & LinuxSenegal. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. by **[@daoodaba975](https://github.com/daoodaba975)**
-- **[Http_lolo](https://github.com/mohaskii/http_lolo)** - A simple, lightweight, single-threaded rust HTTP server with non-blocking I/O for concurrent operation handling. by **[@Mohaskii](https://github.com/mohaskii)**
+- **[Http_lolo](https://github.com/mohaskii/http_lolo)** - A simple, lightweight, single-threaded  HTTP rust framework with non-blocking I/O for concurrent operation handling. by **[@Mohaskii](https://github.com/mohaskii)**
 
 ## <a name="I"> </a>I
 

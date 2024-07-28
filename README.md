@@ -135,7 +135,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for _HacktoberFest Hackaton 2021_ organized by GalsenDEV & LinuxSenegal. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Http_lolo](https://github.com/mohaskii/http_lolo)** - A simple, lightweight, single-threaded rust HTTP server with non-blocking I/O for concurrent operation handling. by **[@Mohaskii](https://github.com/mohaskii)**
-- 
+
 ## <a name="I"> </a>I
 
 - **[Implicit SFTP File Sender](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)** - A Powershell script using WINSCP for sending files to an Remote Implicit SFTP server. The program also have File Change detection system for sending automatically the most recent File in the [CONTAINER] folder. by **[@orbitturner](https://github.com/orbitturner)**

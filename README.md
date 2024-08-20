@@ -71,7 +71,6 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Babstrap Settings Screen](https://github.com/babstrap/babstrap_settings_screen)** - This package helps you to display a nice settings screen with Flutter in a very simple and fast way. by **[@babstrap](https://github.com/babstrap)**
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. by **[@MedouneSGB](https://github.com/MedouneSGB)**
-- **[Basics Frontend Components](https://github.com/daoodaba975/basics.frontend.components.collections)** - This is a large collections of some basics frontend components crafted with HTML, CSS & JavaScript only, ready to be used. by **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Benford Law Chart Generator](https://github.com/MedouneSGB/Benford-Law-chart-generator)** - This program applies Benford's law to a set of numerical data and generates a graph. by **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Bitcoin on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). by **[@nourou4them](https://github.com/nourou4them)**
 - **[Blog Hive](https://github.com/takanome-dev/BlogHive)** - A community-driven platform for bloggers to improve their skills and connect with like-minded individuals. by **[@takanome-dev](https://github.com/takanome-dev)**
@@ -143,6 +142,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Internet Connectivity Checker](https://github.com/HamadaHiro/internet_connectivity_checker)** - The Flutter package that helps you easily manage dynamic widgets based on the device's internet access. by **[@HamadaHiro](https://github.com/HamadaHiro)**
 
 ## <a name="J"> </a>J
+
+- **[JustFrontKit](https://github.com/daoodaba975/just.front.kit)** - A large collection of basic frontend components, crafted with only HTML, CSS, and JavaScript, ready to be used. by **[@daoodaba975](https://github.com/daoodaba975)**
 
 ## <a name="K"> </a>K
 

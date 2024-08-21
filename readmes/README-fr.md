@@ -1,52 +1,29 @@
+# Made In Senegal
+
 ![COVER](../assets/cover.png)
 
-<p align="center">
-Pour afficher le README en <a href="../README.md">Anglais <img src="../assets/en.png" alt="UK Flag" style="width:20px;height:10px;"></a> ou en <a href="README-wo.md">Wolof <img src="../assets/sn.png" alt="SN Flag" style="width:20px;height:10px;"></a>
-</p>
+Pour afficher le README en **[Anglais](../README.md)** ![en](assets/en.png) ou en **[Wolof](../readmes/README-wo.md)** ![wo](assets/wo.png)
 
-<h1 align="center">
-  <img src="../assets/made.in.senegal.png" width="100px" />
-  <br/>
-  <a href="https://madeinsenegal.dev" target="blank_">Made In Senegal</a>
-</h1>
-
-<p align="center">
-  <!-- Ko-Fi for donation -->
-  <a href="https://ko-fi.com/galsendev221">
-    <img alt="ko--fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
-  <!-- Discord server -->
-  <a href="https://discord.gg/CKZcKqf">
-    <img alt="discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-  </a>
-  <!-- Twitter community -->
-  <a href="https://twitter.com/galsendev221">
-    <img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
 👨🏽‍💻 Il s'agit d'une collection d'outils construits par des développeurs sénégalais qui peuvent être utilisés par n'importe qui partout dans le monde 🌍
-</p>
+
+[![Discord](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galsendev221)
+
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf)
+
+[![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev221)
 
 ---
 
-<p align="center">
-<a href="https://github.com/GalsenDev221/made.in.senegal"><img src="../assets/badge.svg"></a>
-</p>
+![Made-In-Senegal](../assets/badge.svg)
 
-<p align="center">
 Si vous êtes en charge de projet, vous pouvez ajouter notre badge en copiant le code ci-dessous ⬇️ dans la description de votre projet GitHub.
-</p>
 
-<p align="center">
-<pre align="center">
-  <code>
-  [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal)
-  </code>
-</pre>
-</p>
+```bash
+[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
+```
 
-<p align="center">
-🚧 Si vous souhaitez contribuer à ce projet, veuillez lire <strong><a href="../CONTRIBUTING.md">CONTRIBUTING.md</a></strong> d'abord !
-</p>
+🚧 Si vous souhaitez contribuer à ce projet, veuillez lire **[CONTRIBUTING.md](../CONTRIBUTING.md)** d'abord !
+
+---
+
+**[A](../README.md#a) | [B](../README.md#b) | [C](../README.md#c) | [D](../README.md#d) | [E](../README.md#e) | [F](../README.md#f) | [G](../README.md#g) | [H](../README.md#h) | [I](../README.md#i) | [J](../README.md#j) | [K](../README.md#k) | [L](../README.md#l) | [M](../README.md#m) | [N](../README.md#n) | [O](../README.md#o) | [P](../README.md#p) | [Q](../README.md#q) | [R](../README.md#r) | [S](../README.md#s) | [T](../README.md#t) | [U](../README.md#u) | [V](../README.md#v) | [W](../README.md#w) | [X](../README.md#x) | [Y](../README.md#y) | [Z](../README.md#z)**

@@ -57,7 +57,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - The goal of this is to show you how a senior developer will think while programming and how they will structure their code to be as clean and well-written as possible. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Cos Pagination](https://github.com/cheikhomarsow/cos-ng-pagination)** - Angular component that provides pagination. Navigating through the pagination triggers an event that will load the current page. - **[@cheikhomarsow](https://github.com/cheikhomarsow)**
-- **[Country Flag Code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. - **[@MIdiop](https://github.com/MJdiop/)**
+- **[Country Flag Code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. - **[@MJdiop](https://github.com/MJdiop/)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. - **[@senegalouvert](https://github.com/senegalouvert)**
 - **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. - **[@bambadiagne](https://github.com/bambadiagne)**
 
@@ -111,7 +111,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Implicit SFTP File Sender](https://github.com/orbitturner/IMPLICIT-SFTP-FILE-SENDER)** - A Powershell script using WINSCP for sending files to an Remote Implicit SFTP server. The program also have File Change detection system for sending automatically the most recent File in the "CONTAINER" folder. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Indigo](https://github.com/diop/indigo)** - An image transformation utility written in Go. - **[@diop](https://github.com/diop)**
-- **[Internet Connectivity Checker](https://github.com/HamadaHiro/internet_connectivity_checker)** - The Flutter package that helps you easily manage dynamic widgets based on the device's internet access. - **[@HamadaHiro](https://github.com/HamadaHiro)**
+- **[Internet Connectivity Checker](https://github.com/csof3cen/internet_connectivity_checker)** - The Flutter package that helps you easily manage dynamic widgets based on the device's internet access. - **[@csof3cen](https://github.com/csof3cen)**
 
 ## J
 
@@ -133,7 +133,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## M
 
 - **[Manifeste](https://github.com/Code-for-Senegal/manifeste)** - The manifesto for the innovation of IT of the State of Senegal. - **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
-- **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and Typescript rules setup for NextJs and NestJs apps. - **[@takanome-dev](https://github.com/takanome-dev)**
+- **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and TypeScript rules setup for NextJs and NestJs apps. - **[@takanome-dev](https://github.com/takanome-dev)**
 
 ## N
 

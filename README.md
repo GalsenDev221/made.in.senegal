@@ -6,11 +6,7 @@ To display the README in **[French](readmes/README-fr.md)** ![fr](assets/fr.png)
 
 👨🏽‍💻 This is a collection of tools built by Senegalese developers that can be used by anyone all over the world 🌍
 
-[![Discord](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galsendev221)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf)
-
-[![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev221)
+[![Discord](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galsendev221) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf) [![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev221)
 
 ---
 
@@ -19,7 +15,7 @@ To display the README in **[French](readmes/README-fr.md)** ![fr](assets/fr.png)
 If you are the maintainer of a project, you can add our badge by copying the code below ⬇️ into your GitHub project description.
 
 ```bash
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
+![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)
 ```
 
 🚧 If you want to contribute on this project, please read **[CONTRIBUTING.md](CONTRIBUTING.md)** first !

@@ -89,6 +89,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[GalsenApi](https://github.com/sibylassana95/GalsenAPi)** - GalsenApi is an API that allows you to easily manipulate data about Senegal. - **[@sibylassana95](https://github.com/sibylassana95)**
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. - **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. - **[@honorableCon](https://github.com/honorableCon)**
+- **[Galsenext](https://github.com/mouhamedhanne/Galsenext)** - Galsenext is a NextJs optimized starter kit designed to accelerate the development of modern, high-performance applications. - **[@mouhamedhanne](https://github.com/mouhamedhanne)**
 - **[Galsenify](https://github.com/daoodaba975/galsenify)** - A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. - **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Local Stats](https://github.com/JoeDalton24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. - **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. - **[@daoodaba975](https://github.com/daoodaba975)**
@@ -111,6 +112,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## J
 
+- **[Jolof](https://github.com/dofbi/jolof)** - Wolof Dataset for Open LLM Fine-Tuning. - **[@dofbi](https://github.com/dofbi)**
 - **[JustFrontKit](https://github.com/daoodaba975/just.front.kit)** - A large collection of basic frontend components, crafted with only HTML, CSS, and JavaScript, ready to be used. - **[@daoodaba975](https://github.com/daoodaba975)**
 
 ## K

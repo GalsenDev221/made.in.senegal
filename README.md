@@ -127,6 +127,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[HacktoberFest 2021](https://github.com/GalsenDev221/hacktober.fest.2021)** - Ressources for _HacktoberFest Hackaton 2021_ organized by GalsenDEV & LinuxSenegal. by **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. by **[@daoodaba975](https://github.com/daoodaba975)**
+- **[HttpJsonBridge](https://github.com/Kepsondiaz/HttpJsonBridge)** - A Simple way to define your Json Response for your Api in Laravel. by **[@Kepsondiaz](https://github.com/Kepsondiaz)**
 
 ## <a name="I"> </a>I
 

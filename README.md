@@ -103,6 +103,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## H
 
 - **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. - **[@daoodaba975](https://github.com/daoodaba975)**
+- **[HttpJsonBridge](https://github.com/Kepsondiaz/HttpJsonBridge)** - A Simple way to define your JSON Response for your API in Laravel. - **[@Kepsondiaz](https://github.com/Kepsondiaz)**
 - **[HTTP Lolo](https://github.com/mohaskii/http_lolo)** - A simple, lightweight, single-threaded HTTP Rust framework with non-blocking I/O for concurrent operation handling. - **[@mohaskii](https://github.com/mohaskii)**
 
 ## I

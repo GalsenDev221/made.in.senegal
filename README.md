@@ -126,6 +126,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - Laliasprite is a PhaserJs based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when animation is playing for example). - **[@Shadoworker](https://github.com/Shadoworker)**
 - **[Laraswagger](https://github.com/bamagid/laraswagger)** - Laraswagger simplifies the process of converting exported JSON from Insomnia or Postman into Swagger documentation for Laravel projects. - **[@bamagid](https://github.com/bamagid)**
 - **[Laravel Dev Joke](https://github.com/sissokho/laravel-dev-joke)** - A Laravel package that offer a simple way to fetch a random dev joke from this [DevJoke API](https://documenter.getpostman.com/view/16443297/TzkyLee7). - **[@sissokho](https://github.com/sissokho)**
+- **[Laravel Model Tracker](https://github.com/temistocle1998/laravel-model-tracker)** - A lightweight Laravel package to track changes in your models. Automatically logs all changes, including old values, new values, and the user responsible for the changes. - **[@temistocle1998](https://github.com/temistocle1998)**
 - **[Laravel Paytech](https://github.com/babaly/laravel-paytech)** - A package for using Paytech wallet payment platform. - **[@babaly](https://github.com/babaly)**
 - **[Laravel (PHP 8.1) build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Learn Advanced Dart](https://github.com/omar6260/Learn-advanced-dart)** - It is a learning experience of the fundamentals and introduction of new topics. - **[@omar6260](https://github.com/omar6260)**
@@ -180,6 +181,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## Q
 
+- **[QReezy](https://github.com/mouhamedhanne/QReezy)** - This is a project that allows you to generate, modify and manage your QR codes with ease. - **[@mouhamedhanne](https://github.com/mouhamedhanne)**
 - **[Quirgo](https://github.com/wilfreud/quirgo-cli)** - A command line interface tool built with TypeScript to easily configure GitHub repositories secrets and variables during CI/CD processes. - **[@wilfreud](https://github.com/wilfreud)**
 
 ## R

@@ -6,11 +6,7 @@ To display the README in **[French](readmes/README-fr.md)** ![fr](assets/fr.png)
 
 👨🏽‍💻 This is a collection of tools built by Senegalese developers that can be used by anyone all over the world 🌍
 
-[![Discord](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galsendev221)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf)
-
-[![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev221)
+[![Discord](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galsendev221) [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf) [![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev221)
 
 ---
 
@@ -19,7 +15,7 @@ To display the README in **[French](readmes/README-fr.md)** ![fr](assets/fr.png)
 If you are the maintainer of a project, you can add our badge by copying the code below ⬇️ into your GitHub project description.
 
 ```bash
-[![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
+![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)
 ```
 
 🚧 If you want to contribute on this project, please read **[CONTRIBUTING.md](CONTRIBUTING.md)** first !
@@ -32,6 +28,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Africa Payment SDK Node](https://github.com/tecafrik-git/africa-payment-sdk-node)** - A single SDK to integrate all african payment providers seamlessly. - **[@tecafrik-git](https://github.com/tecafrik-git)**
 - **[AI Suggest Deployment](https://github.com/Mister-iks/ai_suggest_deployment)** - AI Suggest is a powerful command-line assistant that leverages AI to provide accurate Linux commands based on natural language queries. Simplify your terminal interactions with seamless integration and smart command suggestions. - **[@Mister-iks](https://github.com/Mister-iks)**
+- **[Algo Visualizer](https://github.com/elias-ba/algo-visualizer)** - Interactive algorithm visualizer built with Elixir and Phoenix LiveView. Explore pathfinding, sorting, and graph algorithms through real-time, web-based visualizations. - **[@elias-ba](https://github.com/elias-ba)**
 - **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract Response to CSV export tables and extract key-value pairs in form documents from JSON returned by Amazon Textract into a comma-separated values (CSV) file. - **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Andromeda](https://github.com/lodjim/andromeda)** - Andromeda is a Golang library that focuses on implementing machine learning and deep learning algorithms with an emphasis on speed. - **[@lodjim](https://github.com/lodjim)**
 - **[Angular 11 JWT Auth](https://github.com/orbitturner/ANGULAR-11-JWT-AUTH-FRONT-CLIENT)** - A DemoProject for presenting my way of managing JWT auth in the front with Angular. - **[@orbitturner](https://github.com/orbitturner)**
@@ -93,6 +90,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[GalsenApi](https://github.com/sibylassana95/GalsenAPi)** - GalsenApi is an API that allows you to easily manipulate data about Senegal. - **[@sibylassana95](https://github.com/sibylassana95)**
 - **[GalsenDev First Contributions](https://github.com/GalsenDev221/galsendev.first.contributions)** - Help newbies to contribute on open source projects. - **[@GalsenDev221](https://github.com/GalsenDev221)**
 - **[GalsenDev Terminal](https://github.com/honorableCon/GalsenDevTerminal)** - GalsenDev Terminal Theme. - **[@honorableCon](https://github.com/honorableCon)**
+- **[Galsenext](https://github.com/mouhamedhanne/Galsenext)** - Galsenext is a NextJs optimized starter kit designed to accelerate the development of modern, high-performance applications. - **[@mouhamedhanne](https://github.com/mouhamedhanne)**
 - **[Galsenify](https://github.com/daoodaba975/galsenify)** - A package NPM that allows you to easily manipulate data about Senegal, it offers a lot of information about country of Teranga. - **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Local Stats](https://github.com/JoeDalton24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. - **[@JoeDalton24](https://github.com/JoeDalton24)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. - **[@daoodaba975](https://github.com/daoodaba975)**
@@ -105,6 +103,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## H
 
 - **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. - **[@daoodaba975](https://github.com/daoodaba975)**
+- **[HttpJsonBridge](https://github.com/Kepsondiaz/HttpJsonBridge)** - A Simple way to define your JSON Response for your API in Laravel. - **[@Kepsondiaz](https://github.com/Kepsondiaz)**
 - **[HTTP Lolo](https://github.com/mohaskii/http_lolo)** - A simple, lightweight, single-threaded HTTP Rust framework with non-blocking I/O for concurrent operation handling. - **[@mohaskii](https://github.com/mohaskii)**
 
 ## I
@@ -115,6 +114,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## J
 
+- **[Jolof](https://github.com/dofbi/jolof)** - Wolof Dataset for Open LLM Fine-Tuning. - **[@dofbi](https://github.com/dofbi)**
 - **[JustFrontKit](https://github.com/daoodaba975/just.front.kit)** - A large collection of basic frontend components, crafted with only HTML, CSS, and JavaScript, ready to be used. - **[@daoodaba975](https://github.com/daoodaba975)**
 
 ## K

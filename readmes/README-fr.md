@@ -2,7 +2,7 @@
 
 ![COVER](../assets/cover.png)
 
-Pour afficher le README en **[Anglais](../README.md)** ![en](assets/en.png) ou en **[Wolof](../readmes/README-wo.md)** ![wo](assets/wo.png)
+Pour afficher le README en **[Anglais](../README.md)** ![en](../assets/en.png) ou en **[Wolof](../readmes/README-wo.md)** ![wo](../assets/wo.png)
 
 👨🏽‍💻 Il s'agit d'une collection d'outils construits par des développeurs sénégalais qui peuvent être utilisés par n'importe qui partout dans le monde 🌍
 

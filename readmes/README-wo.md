@@ -16,13 +16,13 @@ Soo bëggee gis README ci **[Àngle](../README.md)** ![en](../assets/en.png) wal
 
 ![Made-In-Senegal](../assets/badge.svg)
 
-Sudee borom projet nga, mën nga yokk sunu badge soo kopie kode bi ci suuf ⬇️ ci sa tegtal projet GitHub.
+Sudee borom projet nga, mën nga yokk sunu badge soo kopie kode bi ci suuf ⬇️ ci sa tegtal projet GitHub.,,,
 
 ```bash
 [![Made-In-Senegal](https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)]
 ```
 
-🚧 Soo bëggee jàppale ci projet bii, njëkkal jàng **[CONTRIBUTING.md](../CONTRIBUTING.md)** !
+🚧 Soo bëggee jàppale ci projet bii, njëkkal jàng **[CONTRIBUTING.md](../CONTRIBUTING.md)** !!!!
 
 ---
 

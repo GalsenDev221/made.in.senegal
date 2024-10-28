@@ -39,7 +39,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## B
 
-- **[Baat Bi](https://github.com/devdiop221/baat_bi)** - Baat Bi is an interactive word game built with Next.js, Framer Motion, and TailwindCSS. Find all the words hidden in the grid and collect points as you go!. - **[@devdiop221](https://github.com/devdiop221)**
+- **[Baat Bi](https://github.com/devdiop221/baat_bi)** - Baat Bi is an interactive word game built with NextJS, Framer Motion, and TailwindCSS. Find all the words hidden in the grid and collect points as you go. - **[@devdiop221](https://github.com/devdiop221)**
 - **[Babstrap Settings Screen](https://github.com/babstrap/babstrap_settings_screen)** - This package helps you to display a nice settings screen with Flutter in a very simple and fast way. - **[@babstrap](https://github.com/babstrap)**
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. - **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Benford Law Chart Generator](https://github.com/MedouneSGB/Benford-Law-chart-generator)** - This program applies Benford's law to a set of numerical data and generates a graph. - **[@MedouneSGB](https://github.com/MedouneSGB)**

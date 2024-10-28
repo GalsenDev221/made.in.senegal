@@ -47,6 +47,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Blog Hive](https://github.com/takanome-dev/BlogHive)** - A community-driven platform for bloggers to improve their skills and connect with like-minded individuals. - **[@takanome-dev](https://github.com/takanome-dev)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. - **[@diop](https://github.com/diop)**
 
+## C
+
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. - **[@riftone07](https://github.com/riftone07)**
 - **[ChatGPT CLI](https://github.com/elias-ba/chatgpt-cli)** - A simple command-line interface (CLI) for interacting with OpenAI's ChatGPT model. - **[@elias-ba](https://github.com/elias-ba)**
 - **[Chatroom Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. - **[@aliounekanoute](https://github.com/aliounekanoute)**

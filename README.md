@@ -39,14 +39,13 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## B
 
+- **[Baat Bi](https://github.com/devdiop221/baat_bi)** - Baat Bi is an interactive word game built with Next.js, Framer Motion, and TailwindCSS. Find all the words hidden in the grid and collect points as you go!. - **[@devdiop221](https://github.com/devdiop221)**
 - **[Babstrap Settings Screen](https://github.com/babstrap/babstrap_settings_screen)** - This package helps you to display a nice settings screen with Flutter in a very simple and fast way. - **[@babstrap](https://github.com/babstrap)**
 - **[Barcodor](https://github.com/MedouneSGB/Barcodor)** - Just a simple Barcode Generator done with Java. - **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Benford Law Chart Generator](https://github.com/MedouneSGB/Benford-Law-chart-generator)** - This program applies Benford's law to a set of numerical data and generates a graph. - **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Bitcoin on WSL](https://github.com/nourou4them/bitcoinsn)** - Installing WSL (Ubuntu here) on a non-system drive, compile bitcoin source code and run tests (units, regression nd functional). - **[@nourou4them](https://github.com/nourou4them)**
 - **[Blog Hive](https://github.com/takanome-dev/BlogHive)** - A community-driven platform for bloggers to improve their skills and connect with like-minded individuals. - **[@takanome-dev](https://github.com/takanome-dev)**
 - **[Blockchain Programming Golang](https://github.com/diop/blockchain-programming-golang)** - Blockchain Programming in Go. - **[@diop](https://github.com/diop)**
-
-- **[Baat Bi](https://github.com/devdiop221/baat_bi)** - Baat Bi is an interactive word game built with Next.js, Framer Motion, and TailwindCSS. Find all the words hidden in the grid and collect points as you go!. - **[@devdiop221](https://github.com/devdiop221)**
 
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. - **[@riftone07](https://github.com/riftone07)**
 - **[ChatGPT CLI](https://github.com/elias-ba/chatgpt-cli)** - A simple command-line interface (CLI) for interacting with OpenAI's ChatGPT model. - **[@elias-ba](https://github.com/elias-ba)**

@@ -69,6 +69,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Djolof Tech Food](https://github.com/Code-for-Senegal/Djolof-Tech-Food)** - Guide to the Djolof Tech which is consumed the most on the internet (Food) and which has a strong export potential. - **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 - **[Document Templating Service](https://github.com/PapiHack/document-templating-service)** - A simple and lightweight service that allows you to process your word document with the variables defined therein by injecting the necessary data that you will provide and return the result in PDF. - **[@PapiHack](https://github.com/PapiHack)**
 - **[Drowsiness Detector](https://github.com/TiDev00/DrowsinessDetection)** - A simple tool which detects drowsy driving and send a loud sound signal. - **[@TiDev00](https://github.com/TiDev00)**
+**[Dynamic API](https://github.com/saloum45/dynamic_api)** - It is about to make a dynamic API, that allows to get automatically the CRUD of your new applications by only connecting your project database. - **[@saloum45](https://github.com/saloum45)**
 
 ## E
 

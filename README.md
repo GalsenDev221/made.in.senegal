@@ -84,6 +84,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## F
 
 - **[Facebound](https://github.com/diop/facebound)** - Face Detection Web App. - **[@diop](https://github.com/diop)**
+- **[Fast Dev Config](https://github.com/gaye-lamine/fast-dev-config)** - This is a CLI tool designed to quickly set up development environments by generating .env files, Dockerfiles, and other configurations for multiple languages and databases. - **[@gaye-lamine](https://github.com/gaye-lamine)**
 - **[Flutter Dexchange SMS](https://github.com/aliounekanoute/flutter_dexchange_sms)** - Flutter package for [Dexchange SMS API](https://dexchange-sms.com/), you can send SMS, send OTP and verify it. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Flutter News App](https://github.com/bacarybruno/flutter-news-app)** - A simple news app built with Flutter (Provider Architecture) and using Wordpress REST API. - **[@bacarybruno](https://github.com/bacarybruno)**
 
@@ -143,6 +144,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. - **[@babacarbasse](https://github.com/babacarbasse)**
 - **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/xyhomi3/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. - **[@xyhomi3](https://github.com/xyhomi3)**
 - **[Netflix Collection](https://github.com/mouhamedhanne/Netflix_collection)** - Netflix Collection is your perfect companion for easy management of your favorite movies and TV shows. Create your own personalized collection by adding direct links to your favorite films on Netflix, Disney+, Amazon Prime, and other streaming platforms. - **[@mouhamedhanne](https://github.com/mouhamedhanne)**
+- **[Notes](https://github.com/EIC95/Notes)** - Notes on different programming languages, to provide an overview of the basic concepts and essential features of each language. - **[@EIC95](https://github.com/EIC95)**
 - **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - An example of a chatbot with a number-based menu that can be used as a starting point for a project. - **[@DerXter](https://github.com/DerXter)**
 
 ## O

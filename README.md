@@ -166,6 +166,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## P
 
 - **[Panorama Generator](https://github.com/TiDev00/Panorama)** - A Python tool in order to generate a panorama from images using Harris Corner Detector and RANSAC. - **[@TiDev00](https://github.com/TiDev00)**
+- **[Paps Icon](https://github.com/MJdiop/paps-icon)** - An icon library designed and built by Paps. - **[@MJdiop](https://github.com/MJdiop)**
 - **[Paps SDK](https://github.com/babacarcissedia/paps-sdk)** - A NodeJS integration of paps.sn API. - **[@babacarcissedia](https://github.com/babacarcissedia)**
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - Parallel-task-queue is simple tool to keep requests to be executed in order with configurable parallelism. - **[@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. - **[@bambadiagne](https://github.com/bambadiagne)**

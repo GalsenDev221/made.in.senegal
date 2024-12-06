@@ -228,6 +228,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Vie Publique Sn](https://github.com/Code-for-Senegal/vie-publique.sn)** - Citizen platform for democracy and transparency in Senegal. - **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 - **[VIT (Vision Transformer)](https://github.com/lodjim/VIT)** - This is a simple implementation of VIT. - **[@lodjim](https://github.com/lodjim)**
 - **[VS Code Mediaplayer](https://github.com/sir-kain/vscode-mediaplayer)** - Mediaplayer extention for VS Code. - **[@sir-kain](https://github.com/sir-kain)**
+- **[VS Code Projects Launcher](https://github.com/aliounebfam/vscode_projects_launcher)** - Scripts to launch multiple VS Code projects from a main directory. - **[@aliounebfam](https://github.com/aliounebfam)**
 
 ## W
 

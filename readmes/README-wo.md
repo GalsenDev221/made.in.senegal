@@ -6,11 +6,7 @@ Soo bëggee gis README ci **[Àngle](../README.md)** ![en](../assets/en.png) wal
 
 👨🏽‍💻 Lii ab jumtukaay la bu defarkatu senegaal yi defar te képp man naa ko jëfandikoo fépp fu nga mëna nekk ci àdduna bi 🌍
 
-[![Discord](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galsendev221)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf)
-
-[![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev221)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf) [![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev)
 
 ---
 

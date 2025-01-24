@@ -4,7 +4,7 @@
 
 Soo bëggee gis README ci **[Àngle](../README.md)** ![en](../assets/en.png) wala ci **[Français](../readmes/README-fr.md)** ![fr](../assets/fr.png)
 
-👨🏽‍💻 Lii ab jumtukaay la bu defarkatu senegaal yi defar te képp man naa ko jëfandikoo fépp fu nga mëna nekk ci àdduna bi 🌍
+Made In Senegal ab platform la buy wone ay jumtukaay ak ay pexe yu ay developpeur yu senegal defar ngir mboolo aduna bi yépp 🌍
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf) [![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev)
 

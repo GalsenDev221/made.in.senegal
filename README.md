@@ -52,6 +52,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Change Password First](https://github.com/riftone07/changepasswordfirst)** - This package allows your users change their password on the first login. - **[@riftone07](https://github.com/riftone07)**
 - **[ChatGPT CLI](https://github.com/elias-ba/chatgpt-cli)** - A simple command-line interface (CLI) for interacting with OpenAI's ChatGPT model. - **[@elias-ba](https://github.com/elias-ba)**
 - **[Chatroom Java and RMI](https://github.com/aliounekanoute/java_chatroom_rmi)** - A chat room application with Java, RMI and JavaFX. - **[@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Cities Data Access](https://github.com/kiba-org/cities)** - An efficient package for accessing comprehensive and integrable geographical data on cities worldwide. - **[@hakimLyon](https://github.com/hakimLyon)**
 - **[Clean Code](https://github.com/orbitturner/CLEAN-CODE)** - A full project to show how a senior developer thinks and structures clean, well-written code. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Connectivity Bloc](https://github.com/aliounekanoute/flutter_connectivity_bloc)** - Flutter package that allows to continuously check the connection state in an application. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Controller Generate](https://github.com/saloum45/controllergenerate)** - This package simplifies dynamic generation of controllers, migrations, and routes in Laravel. - **[@saloum45](https://github.com/saloum45)**
@@ -59,7 +60,6 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Country Flag Code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. - **[@MJdiop](https://github.com/MJdiop)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. - **[@senegalouvert](https://github.com/senegalouvert)**
 - **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. - **[@bambadiagne](https://github.com/bambadiagne)**
-- **[Cities Data Access](https://github.com/kiba-org/cities)** - A simple and efficient package to access data on cities worldwide. Perfect for projects requiring comprehensive and easily integrable geographical information. - **[@hakimLyon](https://github.com/hakimLyon)**
 
 ## D
 

@@ -59,6 +59,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Country Flag Code](https://github.com/MJdiop/country-flag-code)** - A simple package that transforms a country code into a flag. - **[@MJdiop](https://github.com/MJdiop)**
 - **[Covid 19](https://github.com/senegalouvert/COVID-19)** - Senegal Coronavirus (COVID-19) Cases. - **[@senegalouvert](https://github.com/senegalouvert)**
 - **[CryptoJava](https://github.com/bambadiagne/CryptoJava)** - An cryptography software based on Java Swing. - **[@bambadiagne](https://github.com/bambadiagne)**
+- **[Cities Data Access](https://github.com/kiba-org/cities)** - A simple and efficient package to access data on cities worldwide. Perfect for projects requiring comprehensive and easily integrable geographical information. - **[@hakimLyon](https://github.com/hakimLyon)**
 
 ## D
 

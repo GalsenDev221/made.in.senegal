@@ -145,7 +145,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. - **[@babacarbasse](https://github.com/babacarbasse)**
 - **[Netflix Collection](https://github.com/mouhamedhanne/Netflix_collection)** - Your perfect companion for easy management of your favorite movies and TV shows. - **[@mouhamedhanne](https://github.com/mouhamedhanne)**
-- **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/xyhomi3/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. - **[@xyhomi3](https://github.com/xyhomi3)**
+- **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/lucien-loua/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. - **[@lucien-loua](https://github.com/lucien-loua)**
 - **[Notes](https://github.com/EIC95/Notes)** - Notes on programming languages offering an overview of basic concepts and essential features. - **[@EIC95](https://github.com/EIC95)**
 - **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - A chatbot example with a number-based menu, ideal as a project starter. - **[@DerXter](https://github.com/DerXter)**
 

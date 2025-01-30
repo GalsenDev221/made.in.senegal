@@ -1,7 +1,7 @@
 # Contribute to this Project
 
 👋🏽 Thanks for showing interest and helping out  
-If you get stuck somewhere, contact us on **[X (Twitter)](https://x.com/galsendev221)** 🤙🏾
+If you get stuck somewhere, contact us on **[X (Twitter)](https://x.com/galsendev)** 🤙🏾
 
 ## Requirements 🎯
 
@@ -17,9 +17,11 @@ To add a new project to the collection, please ensure they respect the following
 
 - The project must be **"Made in Senegal"** as the name implies.
 
+- The project must have **global use**, meaning it's not made just for use by Senegalese and there really is **no geographical limitation for anyone** that may be interested in using this project.
+
 - **Check first** if the project you want to add is not on the list.
 
-- The project must have a **clear description**.
+- The project must have a **clear description** and not be **too verbose**.
 
 - Please try to add the project to it's **appropriate alphabetical location**.
 
@@ -28,8 +30,6 @@ To add a new project to the collection, please ensure they respect the following
 - Do **not add a list project**, a project that just makes a listing.
 
 - Ensure to **provide the good GitHub url** of the creator of the project.
-
-- The project must have global use - meaning it's not made just for use by Senegalese and there really is **no geographical limitation for anyone** that may be interested in using this project.
 
 You can copy this template and modify it :
 

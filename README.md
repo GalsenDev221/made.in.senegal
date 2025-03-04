@@ -98,7 +98,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Galsenify](https://github.com/daoodaba975/galsenify)** - A package NPM that allows you to easily manipulate data about Senegal. - **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Fun](https://github.com/alphajoop/gitfun)** - Choose the perfect emoji for your commits. - **[@alphajoop](https://github.com/alphajoop)**
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. - **[@daoodaba975](https://github.com/daoodaba975)**
-- **[Git Local Stats](https://github.com/JoeDalton24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. - **[@JoeDalton24](https://github.com/JoeDalton24)**
+- **[Git Local Stats](https://github.com/hibou24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. - **[@hibou24](https://github.com/hibou24)**
 - **[GitHub User Stats](https://github.com/bambadiagne/github-user-stats)** - An API with to retrieve statistics from github users according to defined criteria. - **[@bambadiagne](https://github.com/bambadiagne)**
 - **[GoPass](https://github.com/NDOY3M4N/gopass)** - A super basic CLI app for generating password. - **[@NDOY3M4N](https://github.com/NDOY3M4N)**
 - **[Gproject](https://github.com/Dar-rius/gproject)** - A CLI for quickly accessing projects without navigating through multiple folders. - **[@Dar-rius](https://github.com/Dar-rius)**

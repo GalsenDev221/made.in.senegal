@@ -133,7 +133,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Laravel (PHP 8.1) build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Laravel Dev Joke](https://github.com/sissokho/laravel-dev-joke)** - A Laravel package that offer a simple way to fetch a random dev joke from this DevJoke API. - **[@sissokho](https://github.com/sissokho)**
 - **[Laravel Model Tracker](https://github.com/temistocle1998/laravel-model-tracker)** - A lightweight Laravel package to track changes in your models. - **[@temistocle1998](https://github.com/temistocle1998)**
-- **[Laravel Paytech](https://github.com/babaly/laravel-paytech)** - A package for using Paytech wallet payment platform. - **[@babaly](https://github.com/babaly)**
+- **[Laravel PayTech](https://github.com/babaly/laravel-paytech)** - A package for using PayTech wallet payment platform. - **[@babaly](https://github.com/babaly)**
 - **[Learn Advanced Dart](https://github.com/omar6260/Learn-advanced-dart)** - It is a learning experience of the fundamentals and introduction of new topics. - **[@omar6260](https://github.com/omar6260)**
 
 ## M
@@ -169,8 +169,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Parallel Task Queue](https://github.com/touskar/parallel-task-queue)** - A simple tool for executing requests in order with configurable parallelism. - **[@touskar](https://github.com/touskar)**
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. - **[@bambadiagne](https://github.com/bambadiagne)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. - **[@PapiHack](https://github.com/PapiHack)**
-- **[Paytech Flutter](https://github.com/touskar/paytech-flutter)** - A Paytech SDK integration for Flutter. - **[@touskar](https://github.com/touskar)**
-- **[Paytech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for Paytech Payment Gateway available via composer. - **[@PapiHack](https://github.com/PapiHack)**
+- **[PayTech Flutter](https://github.com/touskar/paytech-flutter)** - A PayTech SDK integration for Flutter. - **[@touskar](https://github.com/touskar)**
+- **[PayTech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. - **[@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP boilerplate to quickly start building your next Composer package. - **[@PapiHack](https://github.com/PapiHack)**
 - **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). - **[@touskar](https://github.com/touskar)**
 - **[Population Analyze](https://github.com/Dar-rius/PopulationAnalyze)** - Analyze the human population from a Kaggle dataset. - **[@Dar-rius](https://github.com/Dar-rius)**

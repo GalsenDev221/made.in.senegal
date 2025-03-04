@@ -160,6 +160,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - A small and unopinionated library that is useful for automatically attaching a JSON Web Token. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - A funny easy simple lightweight Senegalese PHP framework. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit ToolBox](https://github.com/orbitturner/orbit-toolbox)** - This is a toolbox regrouping many utilities for everyday tasks. - **[@orbitturner](https://github.com/orbitturner)**
+- **[OSM](https://github.com/orbitturner/osm)** - A lightweight monitoring tool for tracking CPU, RAM, and disk usage on Linux Docker hosts. - **[@orbitturner](https://github.com/orbitturner)**
 
 ## P
 
@@ -170,6 +171,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Password Generator and Cracker](https://github.com/bambadiagne/Generateur-de-mot-de-passe)** - Password generator and cracker with PyQT5. - **[@bambadiagne](https://github.com/bambadiagne)**
 - **[PayExpresse PHP API Client](https://github.com/PapiHack/payexpresse-php-client)** - PHP SDK for PayExpresse Payment Gateway available via composer. - **[@PapiHack](https://github.com/PapiHack)**
 - **[PayTech Flutter](https://github.com/touskar/paytech-flutter)** - A PayTech SDK integration for Flutter. - **[@touskar](https://github.com/touskar)**
+- **[PayTech Next SDK](https://github.com/AdrameDiakhate/paytech-next-sdk)** - A React hook to integrate PayTech into a Next.js application. - **[@AdrameDiakhate](https://github.com/AdrameDiakhate)**
+- **[PayTech Node SDK](https://github.com/AdrameDiakhate/paytech-node-ts-sdk)** - A simple SDK to integrate PayTech into your Node application. - **[@AdrameDiakhate](https://github.com/AdrameDiakhate)**
 - **[PayTech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. - **[@PapiHack](https://github.com/PapiHack)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP boilerplate to quickly start building your next Composer package. - **[@PapiHack](https://github.com/PapiHack)**
 - **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). - **[@touskar](https://github.com/touskar)**

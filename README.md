@@ -107,6 +107,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## H
 
+- **[Honest Stack](https://github.com/aecsar/honest-stack)** - A productive and scalable stack for building APIs and web apps in a monorepo. - **[@aecsar](https://github.com/aecsar)**
 - **[HTML Tricks](https://github.com/daoodaba975/html.tricks)** - Some cool HTML tricks that many developers ignore. - **[@daoodaba975](https://github.com/daoodaba975)**
 - **[HTTP Lolo](https://github.com/mohaskii/http_lolo)** - A simple, single-threaded HTTP server with non-blocking I/O for concurrency. - **[@mohaskii](https://github.com/mohaskii)**
 - **[HttpJsonBridge](https://github.com/Kepsondiaz/HttpJsonBridge)** - A Simple way to define your JSON Response for your API in Laravel. - **[@Kepsondiaz](https://github.com/Kepsondiaz)**

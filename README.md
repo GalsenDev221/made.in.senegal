@@ -30,7 +30,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[AI Suggest Deployment](https://github.com/Mister-iks/ai_suggest_deployment)** - AI Suggest is a powerful command-line assistant that leverages AI to provide accurate Linux commands. - **[@Mister-iks](https://github.com/Mister-iks)**
 - **[AI4Wolof](https://github.com/dofbi/AI4Wolof)** - A project for evaluating the performance of Large Language Models (LLM) in Wolof language. - **[@dofbi](https://github.com/dofbi)**
 - **[Algo Visualizer](https://github.com/elias-ba/algo-visualizer)** - Interactive algorithm visualizer built with Elixir and Phoenix LiveView. - **[@elias-ba](https://github.com/elias-ba)**
-- **[Amazon Textract CSV](https://github.com/JoeDalton24/amazon-textract-response-tocsv)** - Amazon Textract to CSV export tables and extract key-value pairs in form documents from JSON. - **[@JoeDalton24](https://github.com/JoeDalton24)**
+- **[Amazon Textract CSV](https://github.com/hibou24/amazon-textract-response-tocsv)** - Amazon Textract to CSV export tables and extract key-value pairs in form documents from JSON. - **[@hibou24](https://github.com/hibou24)**
 - **[Andromeda](https://github.com/lodjim/andromeda)** - An Golang library that focuses on implementing machine learning and deep learning algorithms. - **[@lodjim](https://github.com/lodjim)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A Ts/Js NPM Package to filter an array of objects with multiple match-criteria. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Assign Issue Action](https://github.com/takanome-dev/assign-issue-action)** - A GitHub action that assigns issues based on 'assign-me' command (or custom command). - **[@takanome-dev](https://github.com/takanome-dev)**
@@ -196,7 +196,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## R
 
 - **[React Flexible List](https://github.com/Alkaly02/react-flexible-list)** - Helps you make responsive layout without any media query or using a third CSS library. - **[@Alkaly02](https://github.com/Alkaly02)**
-- **[React Multy CSV Viewer](https://github.com/JoeDalton24/react-multy-csv-viewer)** - React component to visualize CSV file. - **[@JoeDalton24](https://github.com/JoeDalton24)**
+- **[React Multy CSV Viewer](https://github.com/hibou24/react-multy-csv-viewer)** - React component to visualize CSV file. - **[@hibou24](https://github.com/hibou24)**
 - **[React Native Drag Drop](https://github.com/VolkenoMakers/react-native-drag-drop)** - A module for React Native projects to set up a drag-and-drop system. - **[@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Native Login](https://github.com/VolkenoMakers/react-native-login)** - An adjustable module to simplify email verification login field creation. - **[@VolkenoMakers](https://github.com/VolkenoMakers)**
 - **[React Tools](https://github.com/Pispros/react-tools)** - A simple way to generate react components, pages.. with a single command and even use Redux. - **[@Pispros](https://github.com/Pispros)**

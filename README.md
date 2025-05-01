@@ -227,6 +227,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Wolof IA](https://github.com/Dar-rius/Wolof_IA)** - A web application to train machine learning models to understand messages in Wolof in order to categorize them thanks to the labeling messages entered by visitors in the application. - **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Wolof Spell Checker](https://github.com/TiDev00/Wolof_SpellChecker)** - Automatic spell checking and correction for Wolof language. - **[TiDev00](https://github.com/TiDev00)**
 - **[Wolof Subtitle Generator](https://github.com/lodjim/wolof-subtitle-generator)** - Allows you to generate Wolof subtitles for audio files and to create videos with embedded subtitles. - **[@lodjim](https://github.com/lodjim)**
+- **[WaveHttpClient](https://github.com/Kepsondiaz/WaveHttpClient)** - Wave HTTP Client: A PHP library designed to simplify interactions with the Wave API for developers. - **[@Kepsondiaz](https://github.com/Kepsondiaz)**
 
 ## X
 

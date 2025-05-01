@@ -4,13 +4,9 @@
 
 Pour afficher le README en **[Anglais](../README.md)** ![en](../assets/en.png) ou en **[Wolof](../readmes/README-wo.md)** ![wo](../assets/wo.png)
 
-👨🏽‍💻 Il s'agit d'une collection d'outils construits par des développeurs sénégalais qui peuvent être utilisés par n'importe qui partout dans le monde 🌍
+Made In Senegal est une plateforme mettant en avant des outils et solutions créés par des développeurs sénégalais pour un public mondial 🌍
 
-[![Discord](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/galsendev221)
-
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf)
-
-[![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev221)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf) [![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev)
 
 ---
 

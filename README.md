@@ -236,6 +236,12 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## W
 
+- **[Waxtane](https://github.com/MedouneSGB/Waxtane)** - The Wolof the simple way ?! Waxtane is a collection of discussion phrases in Wolof, French and English. - **[@MedouneSGB](https://github.com/MedouneSGB)**
+- **[WestAfrica Economic Data](https://github.com/Ousmaneleye/WestAfrica_economic_data)** - Visualisation of West Africa's economics data. - **[@Ousmaneleye](https://github.com/Ousmaneleye)**
+- **[Wolof IA](https://github.com/Dar-rius/Wolof_IA)** - A web application to train machine learning models to understand messages in Wolof in order to categorize them thanks to the labeling messages entered by visitors in the application. - **[@Dar-rius](https://github.com/Dar-rius)**
+- **[Wolof Spell Checker](https://github.com/TiDev00/Wolof_SpellChecker)** - Automatic spell checking and correction for Wolof language. - **[TiDev00](https://github.com/TiDev00)**
+- **[Wolof Subtitle Generator](https://github.com/lodjim/wolof-subtitle-generator)** - Allows you to generate Wolof subtitles for audio files and to create videos with embedded subtitles. - **[@lodjim](https://github.com/lodjim)**
+- **[Wave Http Client](https://github.com/Kepsondiaz/WaveHttpClient)** - A PHP library designed to simplify interactions with the Wave API for developers. - **[@Kepsondiaz](https://github.com/Kepsondiaz)**
 - **[Waxtane](https://github.com/MedouneSGB/Waxtane)** - Waxtane is a collection of discussion phrases in Wolof, French, and English. - **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[WestAfrica Economic Data](https://github.com/Ousmaneleye/WestAfrica_economic_data)** - Visualization of West Africa's economic data. - **[@Ousmaneleye](https://github.com/Ousmaneleye)**
 - **[Wolof Bridge](https://github.com/dofbi/Wolof-Bridge)** - A project that interacts with a data model by translating questions and answers into Wolof. - **[@dofbi](https://github.com/dofbi)**
@@ -254,4 +260,5 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## Z
 
+- **[ZakuJs](https://github.com/Shadoworker/ZakuJS)** - ZakuJs is a Js framework for dealing with svg path rigging and transition (animation). - **[@Shadoworker](https://github.com/Shadoworker)**
 - **[ZakuJs](https://github.com/Shadoworker/ZakuJS)** - A JavaScript framework for dealing with SVG path rigging and transitions (animations). - **[@Shadoworker](https://github.com/Shadoworker)**

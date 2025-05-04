@@ -222,6 +222,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Teranga Core .Net](https://github.com/IbrahimaDiaw/Teranga.Core.Net)** - Teranga Core is a .NET library providing easy access to Senegal's administrative data. - **[@IbrahimaDiaw](https://github.com/IbrahimaDiaw)**
 - **[Tic Tac Toe Game](https://github.com/bambadiagne/tictactoe-react-game)** - Tic Tac Toe multiplayer game implemented using React (client) and NodeJS (server). - **[@bambadiagne](https://github.com/bambadiagne)**
 - **[TS Express Quickstart](https://github.com/alphajoop/ts-express-quickstart)** - A pre-configured starter template for an Express project with TypeScript. - **[@alphajoop](https://github.com/alphajoop)**
+- **[Tyrex](https://github.com/elias-ba/tyrex)** - An Elixir library for genetic programming and neuroevolution, implementing standard genetic algorithms and NEAT. - **[@elias-ba](https://github.com/elias-ba)**
 
 ## U
 

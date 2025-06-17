@@ -141,6 +141,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## M
 
 - **[Manifeste](https://github.com/Code-for-Senegal/manifeste)** - The manifesto for the innovation of IT of the State of Senegal. - **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
+- **[MHD++](https://github.com/mahmoud-47/mhd-framework)** - A lightweight and modern C++ framework for web and backend development, designed for performance and flexibility. - **[@mahmoud-47](https://github.com/mahmoud-47)**
 - **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and TypeScript rules setup for NextJs and NestJs apps. - **[@takanome-dev](https://github.com/takanome-dev)**
 
 ## N

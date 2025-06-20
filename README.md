@@ -153,7 +153,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## O
 
-- **[Online Wolof Data](https://github.com/WolofProcessing/online_wolof_data)** - Curate online wolof text resources that can be used to build models. - **[@WolofProcessing](https://github.com/WolofProcessing)**
+- **[Open USSD SN](https://github.com/alphajoop/open-ussd-sn)** - Une base de données simple et ouverte des codes USSD et numéros courts utilisés au Sénégal pour les services Mobile Money (Orange Money, Free Money, Wave, etc.). - **[@alphajoop](https://github.com/alphajoop)**
+- **[Online Wolof Data](https://github.com/WolofProcessing/online_wolof_data)** - Curate online wolof text resources that can be used to build models. - **[@WolofProcessing](https://github.com/WolofProcessing)
 - **[Open Source Engineering Books](https://github.com/mr-mib/Open-Source-Engineering-Books)** - A collection of PDF books on engineering, science, computer science, and soft skills. - **[@mr-mib](https://github.com/mr-mib)**
 - **[Orange SMS API](https://github.com/honorableCon/OrangeSMS-API)** - This gem aims to let you quickly send SMS from JavaScript and Python using the Orange SMS API. - **[@honorableCon](https://github.com/honorableCon)**
 - **[Orange SMS Ruby Client](https://github.com/bayevels/orange-sms-ruby)** - Orange SMS Ruby is a client library that allows you to send SMS from a RoR app using the Orange SMS API. - **[@bayevels](https://github.com/bayevels)**

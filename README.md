@@ -137,6 +137,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Laravel Model Tracker](https://github.com/temistocle1998/laravel-model-tracker)** - A lightweight Laravel package to track changes in your models. - **[@temistocle1998](https://github.com/temistocle1998)**
 - **[Laravel PayTech](https://github.com/babaly/laravel-paytech)** - A package for using PayTech wallet payment platform. - **[@babaly](https://github.com/babaly)**
 - **[Learn Advanced Dart](https://github.com/omar6260/Learn-advanced-dart)** - It is a learning experience of the fundamentals and introduction of new topics. - **[@omar6260](https://github.com/omar6260)**
+- **[LiteJsonDB-Node](https://github.com/codingtuto/LiteJsonDB-Node)** - A simple, lightweight JSON-based database for Node.js applications. Provides an easy-to-use interface for storing and retrieving data using JSON files as the storage backend. - **[@codingtuto](https://github.com/codingtuto)**
 
 ## M
 

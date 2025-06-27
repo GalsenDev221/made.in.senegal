@@ -132,7 +132,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - A PhaserJS tool for generating hitboxes and setting interactions for 2D characters. - **[@Shadoworker](https://github.com/Shadoworker)**
 - **[Laraswagger](https://github.com/bamagid/Laraswager)** - Automates Swagger documentation generation in Laravel, no setup required.  - **[@bamagid](https://github.com/bamagid)**
-- **[Laravel (PHP 8.1) build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel Docker image for production and push it on Docker Hub. - **[@aliounekanoute](https://github.com/aliounekanoute)**
+- **[Laravel build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel (PHP 8.1) Docker image for production and push it on Docker Hub. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Laravel Dev Joke](https://github.com/sissokho/laravel-dev-joke)** - A Laravel package that offer a simple way to fetch a random dev joke from this DevJoke API. - **[@sissokho](https://github.com/sissokho)**
 - **[Laravel Model Tracker](https://github.com/temistocle1998/laravel-model-tracker)** - A lightweight Laravel package to track changes in your models. - **[@temistocle1998](https://github.com/temistocle1998)**
 - **[Laravel PayTech](https://github.com/babaly/laravel-paytech)** - A package for using PayTech wallet payment platform. - **[@babaly](https://github.com/babaly)**

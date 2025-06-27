@@ -143,6 +143,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[Manifeste](https://github.com/Code-for-Senegal/manifeste)** - The manifesto for the innovation of IT of the State of Senegal. - **[@Code-for-Senegal](https://github.com/Code-for-Senegal)**
 - **[MHD++](https://github.com/mahmoud-47/mhd-framework)** - A lightweight and modern C++ framework for web and backend development, designed for performance and flexibility. - **[@mahmoud-47](https://github.com/mahmoud-47)**
+- **[Mongoose AI](https://github.com/jmndao/mongoose-ai)** - AI-powered Mongoose plugin for intelligent document processing. - **[@jmndao](https://github.com/jmndao)**
 - **[Monorepo Template](https://github.com/takanome-dev/monorepo-template)** - A Turporepo template using pnpm with all Eslint and TypeScript rules setup for NextJs and NestJs apps. - **[@takanome-dev](https://github.com/takanome-dev)**
 
 ## N
@@ -242,9 +243,10 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## W
 
 - **[Wave Http Client](https://github.com/Kepsondiaz/WaveHttpClient)** - A PHP library designed to simplify interactions with the Wave API for developers. - **[@Kepsondiaz](https://github.com/Kepsondiaz)**
-- **[Waxtane](https://github.com/MedouneSGB/Waxtane)** - The Wolof the simple way ?! Waxtane is a collection of discussion phrases in Wolof, French and English. - **[@MedouneSGB](https://github.com/MedouneSGB)**
+- **[Waxtane](https://github.com/MedouneSGB/Waxtane)** - A collection of discussion phrases in Wolof, French and English. - **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[WestAfrica Economic Data](https://github.com/Ousmaneleye/WestAfrica_economic_data)** - Visualisation of West Africa's economics data. - **[@Ousmaneleye](https://github.com/Ousmaneleye)**
-- - **[Wolof Bridge](https://github.com/dofbi/Wolof-Bridge)** - A project that interacts with a data model by translating questions and answers into Wolof. - **[@dofbi](https://github.com/dofbi)**
+- **[WhatsApp API](https://github.com/Denver-sn/whatsapp-api)** - A WhatsApp chatbot developed with NestJS and integrated with the official API (Meta Cloud). - **[@Denver-sn](https://github.com/Denver-sn)**
+- **[Wolof Bridge](https://github.com/dofbi/Wolof-Bridge)** - A project that interacts with a data model by translating questions and answers into Wolof. - **[@dofbi](https://github.com/dofbi)**
 - **[Wolof IA](https://github.com/Dar-rius/Wolof_IA)** - A web application to train machine learning models to understand messages in Wolof in order to categorize them thanks to the labeling messages entered by visitors in the application. - **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Wolof Spell Checker](https://github.com/TiDev00/Wolof_SpellChecker)** - Automatic spell checking and correction for Wolof language. - **[TiDev00](https://github.com/TiDev00)**
 - **[Wolof Subtitle Generator](https://github.com/lodjim/wolof-subtitle-generator)** - Allows you to generate Wolof subtitles for audio files and to create videos with embedded subtitles. - **[@lodjim](https://github.com/lodjim)**

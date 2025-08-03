@@ -86,7 +86,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## F
 
 - **[Fast Dev Config](https://github.com/gaye-lamine/fast-dev-config)** - A CLI tool designed to quickly set up development environments by generating files and folders. - **[@gaye-lamine](https://github.com/gaye-lamine)**
-- **[Fayma Kash](https://github.com/iamwill221/FaymaKash-Backend)** - Backend for an interoperable payment system using Django and NFC Technology - **[@iamwill221](https://github.com/iamwill221)**
+- **[Fayma Kash](https://github.com/iamwill221/FaymaKash-Backend)** - Backend for an interoperable payment system using Django and NFC Technology. - **[@iamwill221](https://github.com/iamwill221)**
 - **[Flutter Dexchange SMS](https://github.com/aliounekanoute/flutter_dexchange_sms)** - Flutter package for Dexchange SMS API, you can send SMS, send OTP and verify it. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Flutter News App](https://github.com/bacarybruno/flutter-news-app)** - A simple news app built with Flutter (Provider Architecture) and using Wordpress REST API. - **[@bacarybruno](https://github.com/bacarybruno)**
 

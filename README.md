@@ -63,6 +63,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## D
 
+- **[Deep Search](https://github.com/alaminedione/deep-search)** - A modern and sleek web application for performing advanced searches using Google Dorks operators with AI integration. - **[@alaminedione](https://github.com/alaminedione)**
 - **[Dev2Min](https://github.com/gaye-lamine/Dev2Min)** - A micro-podcast app for tech content, designed to let African developers (and beyond) share ideas, tips, or experiences in under 2 minutes. - **[@gaye-lamine](https://github.com/gaye-lamine)**
 - **[Dexchange PHP](https://github.com/Kepsondiaz/dexchange-php)** - A PHP SDK for interacting with Dexchange API Plateform. - **[@Kepsondiaz](https://github.com/Kepsondiaz)**
 - **[Dexchange SMS NPM](https://github.com/Denver-sn/dexchange-sms-npm)** - Dexchange SMS is a NodeJS module for easy interaction with the Dexchange SMS API. - **[@Denver-sn](https://github.com/Denver-sn)**

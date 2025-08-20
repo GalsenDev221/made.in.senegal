@@ -265,5 +265,4 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## Z
 
-- **[ZakuJs](https://github.com/Shadoworker/ZakuJS)** - ZakuJs is a Js framework for dealing with svg path rigging and transition (animation). - **[@Shadoworker](https://github.com/Shadoworker)**
 - **[ZakuJs](https://github.com/Shadoworker/ZakuJS)** - A JavaScript framework for dealing with SVG path rigging and transitions (animations). - **[@Shadoworker](https://github.com/Shadoworker)**

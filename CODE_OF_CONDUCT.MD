@@ -1,4 +1,4 @@
-# Galsen DEV Code of Conduct
+# Galsen DEV - Contributor Covenant 3.0
 
 ## Our Pledge
 

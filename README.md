@@ -20,6 +20,8 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 🚧 If you want to contribute on this project, please read **[CONTRIBUTING.md](CONTRIBUTING.md)** first !
 
+📖 **[CODE OF CONDUCT](CODE_OF_CONDUCT.md)**
+
 ---
 
 **[A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | [K](#k) | [L](#l) | [M](#m) | [N](#n) | [O](#o) | [P](#p) | [Q](#q) | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | [X](#x) | [Y](#y) | [Z](#z)**
@@ -133,7 +135,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 ## L
 
 - **[LaliaSprite](https://github.com/Shadoworker/LaliaSprite)** - A PhaserJS tool for generating hitboxes and setting interactions for 2D characters. - **[@Shadoworker](https://github.com/Shadoworker)**
-- **[Laraswagger](https://github.com/bamagid/Laraswager)** - Automates Swagger documentation generation in Laravel, no setup required.  - **[@bamagid](https://github.com/bamagid)**
+- **[Laraswagger](https://github.com/bamagid/Laraswager)** - Automates Swagger documentation generation in Laravel, no setup required. - **[@bamagid](https://github.com/bamagid)**
 - **[Laravel build Docker](https://github.com/aliounekanoute/Laravel-php8.1-build-production-docker-image)** - Build Laravel (PHP 8.1) Docker image for production and push it on Docker Hub. - **[@aliounekanoute](https://github.com/aliounekanoute)**
 - **[Laravel Dev Joke](https://github.com/sissokho/laravel-dev-joke)** - A Laravel package that offer a simple way to fetch a random dev joke from this DevJoke API. - **[@sissokho](https://github.com/sissokho)**
 - **[Laravel Model Tracker](https://github.com/temistocle1998/laravel-model-tracker)** - A lightweight Laravel package to track changes in your models. - **[@temistocle1998](https://github.com/temistocle1998)**
@@ -229,6 +231,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Teere](https://github.com/0SansNom/teere)** - Audio books in Wolof. - **[@0SansNom](https://github.com/0SansNom)**
 - **[Teranga Core .Net](https://github.com/IbrahimaDiaw/Teranga.Core.Net)** - Teranga Core is a .NET library providing easy access to Senegal's administrative data. - **[@IbrahimaDiaw](https://github.com/IbrahimaDiaw)**
 - **[Tic Tac Toe Game](https://github.com/bambadiagne/tictactoe-react-game)** - Tic Tac Toe multiplayer game implemented using React (client) and NodeJS (server). - **[@bambadiagne](https://github.com/bambadiagne)**
+- **[Todo Tracker](https://github.com/elias-ba/todotracker)** - Track TODOs directly from your source code by syncing them into GitHub issues. - **[@elias-ba](https://github.com/elias-ba)**
 - **[TS Express Quickstart](https://github.com/alphajoop/ts-express-quickstart)** - A pre-configured starter template for an Express project with TypeScript. - **[@alphajoop](https://github.com/alphajoop)**
 - **[Tyrex](https://github.com/elias-ba/tyrex)** - An Elixir library for genetic programming and neuroevolution, implementing standard genetic algorithms and NEAT. - **[@elias-ba](https://github.com/elias-ba)**
 

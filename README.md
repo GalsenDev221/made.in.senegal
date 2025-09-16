@@ -76,7 +76,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Document Templating Service](https://github.com/PapiHack/document-templating-service)** - A microservice to process Word documents with a templating system, inject data, and return PDF. - **[@PapiHack](https://github.com/PapiHack)**
 - **[Drowsiness Detector](https://github.com/TiDev00/DrowsinessDetection)** - A simple tool which detects drowsy driving and send a loud sound signal. - **[@TiDev00](https://github.com/TiDev00)**
 - **[Dynamic API](https://github.com/saloum45/dynamic_api)** - A dynamic API that auto-generates CRUD by connecting to your project database. - **[@saloum45](https://github.com/saloum45)**
-- - **[Demo Spring boot Keycloak Maildev](https://github.com/bayembacke221/demo-springboot-keycloak-auth-crud.git)** - This project is a sample Spring Boot application integrating Keycloak for authentication, user registration, sending email withe Maildev, and CRUD operations. It is intended for anyone looking to secure a REST API with Keycloak. - **[@bayembacke221]([https://github.com/username](https://github.com/bayembacke221))**
+- - **[Demo Spring boot Keycloak Maildev](https://github.com/bayembacke221/demo-springboot-keycloak-auth-crud.git)** - This project is a sample Spring Boot application integrating Keycloak for authentication, user registration, sending email withe Maildev, and CRUD operations. It is intended for anyone looking to secure a REST API with Keycloak. - **[@bayembacke221](https://github.com/bayembacke221)**
 
 ## E
 

@@ -35,6 +35,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Amazon Textract CSV](https://github.com/hibou24/amazon-textract-response-tocsv)** - Amazon Textract to CSV export tables and extract key-value pairs in form documents from JSON. - **[@hibou24](https://github.com/hibou24)**
 - **[Andromeda](https://github.com/lodjim/andromeda)** - An Golang library that focuses on implementing machine learning and deep learning algorithms. - **[@lodjim](https://github.com/lodjim)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A Ts/Js NPM Package to filter an array of objects with multiple match-criteria. - **[@orbitturner](https://github.com/orbitturner)**
+- **[Ask](https://github.com/elias-ba/ask)** - An AI-powered CLI tool for developers, It brings multi-provider LLM support, agent capabilities, and shell-native intelligence to your fingertips. - **[@elias-ba](https://github.com/elias-ba)**
 - **[Assign Issue Action](https://github.com/takanome-dev/assign-issue-action)** - A GitHub action that assigns issues based on 'assign-me' command (or custom command). - **[@takanome-dev](https://github.com/takanome-dev)**
 - **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node, and MongoDB. - **[@honorableCon](https://github.com/honorableCon)**
 - **[Awesome AI Papers](https://github.com/aimerou/awesome-ai-papers)** - A curated list of the most impressive AI papers. - **[@aimerou](https://github.com/aimerou)**
@@ -106,6 +107,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Git Jafewoul](https://github.com/daoodaba975/git.jafewoul)** - A collection of very useful and little-known Git commands. - **[@daoodaba975](https://github.com/daoodaba975)**
 - **[Git Local Stats](https://github.com/hibou24/git-local-stats)** - An CLI tool that allows you to visual all your local git contributions. - **[@hibou24](https://github.com/hibou24)**
 - **[GitHub User Stats](https://github.com/bambadiagne/github-user-stats)** - An API with to retrieve statistics from github users according to defined criteria. - **[@bambadiagne](https://github.com/bambadiagne)**
+- **[Gofsen](https://github.com/Bakemono-san/gofsen)** - A lightweight, Express.js-inspired HTTP framework for Go. - **[@Bakemono-san](https://github.com/Bakemono-san)**
 - **[GoPass](https://github.com/NDOY3M4N/gopass)** - A super basic CLI app for generating password. - **[@NDOY3M4N](https://github.com/NDOY3M4N)**
 - **[Gproject](https://github.com/Dar-rius/gproject)** - A CLI for quickly accessing projects without navigating through multiple folders. - **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Graph Tool Quickstart](https://github.com/eliaswalyba/graph-tool-quickstart)** - Graph tool is a very powerful tool for working with Graphs in C++ or Python. - **[@eliaswalyba](https://github.com/eliaswalyba)**

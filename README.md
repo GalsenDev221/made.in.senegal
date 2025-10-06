@@ -35,7 +35,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Amazon Textract CSV](https://github.com/hibou24/amazon-textract-response-tocsv)** - Amazon Textract to CSV export tables and extract key-value pairs in form documents from JSON. - **[@hibou24](https://github.com/hibou24)**
 - **[Andromeda](https://github.com/lodjim/andromeda)** - An Golang library that focuses on implementing machine learning and deep learning algorithms. - **[@lodjim](https://github.com/lodjim)**
 - **[Array Querier](https://github.com/orbitturner/array-querier)** - A Ts/Js NPM Package to filter an array of objects with multiple match-criteria. - **[@orbitturner](https://github.com/orbitturner)**
-- **[Ask](https://github.com/elias-ba/ask)** - An AI-powered CLI tool for developers, It brings multi-provider LLM support, agent capabilities, and shell-native intelligence to your fingertips. - **[@elias-ba](https://github.com/elias-ba)**
+- **[Ask](https://github.com/elias-ba/ask)** - An AI-powered CLI for developers with multi-LLM support and built-in agent features. - **[@elias-ba](https://github.com/elias-ba)**
 - **[Assign Issue Action](https://github.com/takanome-dev/assign-issue-action)** - A GitHub action that assigns issues based on 'assign-me' command (or custom command). - **[@takanome-dev](https://github.com/takanome-dev)**
 - **[AuthServerJWT](https://github.com/honorableCon/AuthServerJWT)** - An Authentification Server based on JSON Web Server (JWT), Node, and MongoDB. - **[@honorableCon](https://github.com/honorableCon)**
 - **[Awesome AI Papers](https://github.com/aimerou/awesome-ai-papers)** - A curated list of the most impressive AI papers. - **[@aimerou](https://github.com/aimerou)**

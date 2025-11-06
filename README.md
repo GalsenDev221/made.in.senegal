@@ -158,7 +158,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. - **[@babacarbasse](https://github.com/babacarbasse)**
 - **[Netflix Collection](https://github.com/mouhamedhanne/Netflix_collection)** - Your perfect companion for easy management of your favorite movies and TV shows. - **[@mouhamedhanne](https://github.com/mouhamedhanne)**
-- **[Nexpay](https://github.com/mouhamedlamotte/nexpay)** - A self-hosted mobile payment aggregator that allows businesses to accept and manage payments from multiple providers, featuring a complete dashboard, secure webhooks, and a developer-friendly REST API. - **[@mouhamedlamotte](https://github.com/mouhamedlamotte)**
+- **[Nexpay](https://github.com/mouhamedlamotte/nexpay)** - A self-hosted mobile payment aggregator with multi-provider support, full dashboard, secure webhooks, and a developer-friendly REST API. - **[@mouhamedlamotte](https://github.com/mouhamedlamotte)**
 - **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/lucien-loua/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. - **[@lucien-loua](https://github.com/lucien-loua)**
 - **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - A chatbot example with a number-based menu, ideal as a project starter. - **[@DerXter](https://github.com/DerXter)**
 

@@ -6,7 +6,7 @@ To display the README in **[French](readmes/README-fr.md)** ![fr](assets/fr.png)
 
 Made In Senegal is a platform showcasing tools and solutions crafted by Senegalese developers for a global audience 🌍
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf) [![X](<https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white>)](https://x.com/galsendev)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/CKZcKqf) [![X](https://img.shields.io/badge/X(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/galsendev)
 
 ---
 
@@ -158,6 +158,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 - **[NestJs MongoDB Base Crud API](https://github.com/babacarbasse/nestjs-mongo-crud-base)** - A NestJS package that allow you setup quickly CRUD entities in your NestJS Mongo Application. - **[@babacarbasse](https://github.com/babacarbasse)**
 - **[Netflix Collection](https://github.com/mouhamedhanne/Netflix_collection)** - Your perfect companion for easy management of your favorite movies and TV shows. - **[@mouhamedhanne](https://github.com/mouhamedhanne)**
+- **[Nexpay](https://github.com/mouhamedlamotte/nexpay)** - A self-hosted mobile payment aggregator with multi-provider support, full dashboard, secure webhooks, and a developer-friendly REST API. - **[@mouhamedlamotte](https://github.com/mouhamedlamotte)**
 - **[NextJs 14 Shadcn/ui Boilerplate](https://github.com/lucien-loua/nextjs14-shadcnui-boilerplate)** - A NextJs 14 Boilerplate with Shadcn/ui, Next Themes, TypeScript, ESLint. - **[@lucien-loua](https://github.com/lucien-loua)**
 - **[NumMenu Bot](https://github.com/DerXter/NumMenu-Bot)** - A chatbot example with a number-based menu, ideal as a project starter. - **[@DerXter](https://github.com/DerXter)**
 
@@ -222,7 +223,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Sard Form](https://github.com/mouhamed1296/sard-form)** - A React Component Library for building and maintaining Form easily. - **[@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Senegal Phone Validator](https://github.com/okemamy/senegal-phone-validator)** - A minimal module to validate Senegal phone numbers using Regular Expressions. - **[@okemamy](https://github.com/okemamy)**
 - **[ScriptSheets](https://github.com/EIC95/ScriptSheets)** - An open-source project that provides a collection of cheat sheets for various programming languages and technologies. - **[@EIC95](https://github.com/EIC95)**
-- **[SGML Parser & Converter](https://github.com/TiDev00/Sgml_Parser)** - A Python tool to parse SGML files from WMT and convert them into TXT files. - **[@TiDev00](https://github.com/TiDev00)**
+- **[SGML Parser Converter](https://github.com/TiDev00/Sgml_Parser)** - A Python tool to parse SGML files from WMT and convert them into TXT files. - **[@TiDev00](https://github.com/TiDev00)**
 - **[Spicy Object](https://github.com/mouhamed1296/spicy-object)** - A Js/Ts Library that allows developers to easily manipulate JavaScript objects. - **[@mouhamed1296](https://github.com/mouhamed1296)**
 - **[Sprint](https://github.com/zlorgoncho1/sprint)** - A lightweight, high-performance Go web framework with built-in JSON and HTML response support. - **[@zlorgoncho1](https://github.com/zlorgoncho1)**
 - **[Sunu News Webscrapper](https://github.com/mouhamed1296/sunu-news-webscrapper)** - A web scrapper that gives you the news from major Senegalese news websites. - **[@mouhamed1296](https://github.com/mouhamed1296)**

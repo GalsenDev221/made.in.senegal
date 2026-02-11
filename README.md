@@ -132,6 +132,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Jolof](https://github.com/dofbi/jolof)** - Wolof Dataset for Open LLM Fine-Tuning. - **[@dofbi](https://github.com/dofbi)**
 - **[JustFrontKit](https://github.com/daoodaba975/just.front.kit)** - A collection of basic frontend components built with HTML, CSS, and JavaScript, ready to use. - **[@daoodaba975](https://github.com/daoodaba975)**
 
+- **[JàmmBox](https://github.com/KerHack-Libre/JammBox)** - Une collection de jeux DOS classiques, déjà configurés pour fonctionner facilement avec DOSBox, via une interface légère (TUI). - **[@jukoo](https://github.com/Jukoo)**
 ## K
 
 - **[Kebetoo](https://github.com/bacarybruno/camera-roll-picker)** - A React Native camera roll picker with album name customization and video marker support. - **[@bacarybruno](https://github.com/bacarybruno)**

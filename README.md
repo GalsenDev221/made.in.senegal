@@ -128,6 +128,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 
 ## J
 
+- **[JammBox](https://github.com/KerHack-Libre/JammBox)** - A collection of classic DOS games, already configured to work easily with DOSBox, via a lightweight user interface (TUI). - **[@KerHack-Libre](https://github.com/KerHack-Libre)**
 - **[JantTaf](https://github.com/Jant-TECH/taf)** - An automatic API generator from a MySQL, PostgreSQL, or SQL Server database. - **[@Jant-TECH](https://github.com/Jant-TECH)**
 - **[Jolof](https://github.com/dofbi/jolof)** - Wolof Dataset for Open LLM Fine-Tuning. - **[@dofbi](https://github.com/dofbi)**
 - **[JustFrontKit](https://github.com/daoodaba975/just.front.kit)** - A collection of basic frontend components built with HTML, CSS, and JavaScript, ready to use. - **[@daoodaba975](https://github.com/daoodaba975)**

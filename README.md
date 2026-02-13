@@ -176,6 +176,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Orbit JWT Helper](https://github.com/orbitturner/orbit-jwt)** - A small and unopinionated library that is useful for automatically attaching a JSON Web Token. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit Next Framework](https://github.com/orbitturner/orbitnextframework)** - A funny easy simple lightweight Senegalese PHP framework. - **[@orbitturner](https://github.com/orbitturner)**
 - **[Orbit ToolBox](https://github.com/orbitturner/orbit-toolbox)** - This is a toolbox regrouping many utilities for everyday tasks. - **[@orbitturner](https://github.com/orbitturner)**
+- **[OSCI Platform](https://github.com/zlorgoncho1/osci-platform)** - A Zero Trust security checklist platform for managing, tracking, and auditing security compliance across your organization. - **[@zlorgoncho1](https://github.com/zlorgoncho1)**
 - **[OSM](https://github.com/orbitturner/osm)** - A lightweight monitoring tool for tracking CPU, RAM, and disk usage on Linux Docker hosts. - **[@orbitturner](https://github.com/orbitturner)**
 
 ## P

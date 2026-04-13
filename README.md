@@ -195,6 +195,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[PcyBox SQLBuddy](https://github.com/pcybox/pcybox_sql_buddy)** - An intelligent tool that lets you interact with your MySQL databases in natural language using AI.- **[@pcybox](https://github.com/pcybox)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP boilerplate to quickly start building your next Composer package. - **[@PapiHack](https://github.com/PapiHack)**
 - **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). - **[@touskar](https://github.com/touskar)**
+- **[Pilot](https://github.com/mouhamedsylla/pilot)** - A terminal-first, AI-native CLI that manages your dev environment as code, from local to production. - **[@mouhamedsylla](https://github.com/mouhamedsylla)**
 - **[Population Analyze](https://github.com/Dar-rius/PopulationAnalyze)** - Analyze the human population from a Kaggle dataset. - **[@Dar-rius](https://github.com/Dar-rius)**
 - **[Predict](https://github.com/diop/predict)** - Machine Learning Prediction by SMS. - **[@diop](https://github.com/diop)**
 - **[Processor](https://github.com/babacarcissedia/processor)** - Payment processor API integration. Includes Coinbase, Paypal and Payexpress. - **[@babacarcissedia](https://github.com/babacarcissedia)**

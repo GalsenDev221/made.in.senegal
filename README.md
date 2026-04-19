@@ -192,7 +192,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[PayTech Next SDK](https://github.com/AdrameDiakhate/paytech-next-sdk)** - A React hook to integrate PayTech into a Next.js application. - **[@AdrameDiakhate](https://github.com/AdrameDiakhate)**
 - **[PayTech Node SDK](https://github.com/AdrameDiakhate/paytech-node-ts-sdk)** - A simple SDK to integrate PayTech into your Node application. - **[@AdrameDiakhate](https://github.com/AdrameDiakhate)**
 - **[PayTech PHP Client](https://github.com/PapiHack/paytech-php-client)** - PHP SDK for PayTech Payment Gateway available via composer. - **[@PapiHack](https://github.com/PapiHack)**
-- **[PcyBox SQLBuddy](https://github.com/pcybox/pcybox_sql_buddy)** - An intelligent tool that lets you interact with your MySQL databases in natural language using AI.- **[@pcybox](https://github.com/pcybox)**
+- **[PcyBox SQLBuddy](https://github.com/pcybox/pcybox_sql_buddy)** - An intelligent tool that lets you interact with your MySQL databases in natural language using AI. - **[@pcybox](https://github.com/pcybox)**
 - **[PHP Package Skeleton](https://github.com/PapiHack/php-package-skeleton)** - A simple PHP boilerplate to quickly start building your next Composer package. - **[@PapiHack](https://github.com/PapiHack)**
 - **[PHP Socket IO Event Emitter](https://github.com/touskar/php-socket-io-event-emitter)** - PHP client for socket.io (websocket client). - **[@touskar](https://github.com/touskar)**
 - **[Pilot](https://github.com/mouhamedsylla/pilot)** - A terminal-first, AI-native CLI that manages your dev environment as code, from local to production. - **[@mouhamedsylla](https://github.com/mouhamedsylla)**

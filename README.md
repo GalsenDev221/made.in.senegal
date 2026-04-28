@@ -239,6 +239,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Tawfekh Editor](https://github.com/MedouneSGB/Tawfekh-Editor)** - A beautiful and customizable text editor. - **[@MedouneSGB](https://github.com/MedouneSGB)**
 - **[Teere](https://github.com/0SansNom/teere)** - Audio books in Wolof. - **[@0SansNom](https://github.com/0SansNom)**
 - **[Teranga Core .Net](https://github.com/IbrahimaDiaw/Teranga.Core.Net)** - Teranga Core is a .NET library providing easy access to Senegal's administrative data. - **[@IbrahimaDiaw](https://github.com/IbrahimaDiaw)**
+- **[TérangaOS](https://github.com/MdialloC19/teranga-os)** - A sovereign Linux distribution for Africa with Windows 11-style interface, security hardening, and modular build system. - **[@MdialloC19](https://github.com/MdialloC19)**
 - **[Tic Tac Toe Game](https://github.com/bambadiagne/tictactoe-react-game)** - Tic Tac Toe multiplayer game implemented using React (client) and NodeJS (server). - **[@bambadiagne](https://github.com/bambadiagne)**
 - **[Todo Tracker](https://github.com/elias-ba/todotracker)** - Track TODOs directly from your source code by syncing them into GitHub issues. - **[@elias-ba](https://github.com/elias-ba)**
 - **[TS Express Quickstart](https://github.com/alphajoop/ts-express-quickstart)** - A pre-configured starter template for an Express project with TypeScript. - **[@alphajoop](https://github.com/alphajoop)**

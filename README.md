@@ -243,6 +243,7 @@ If you are the maintainer of a project, you can add our badge by copying the cod
 - **[Todo Tracker](https://github.com/elias-ba/todotracker)** - Track TODOs directly from your source code by syncing them into GitHub issues. - **[@elias-ba](https://github.com/elias-ba)**
 - **[TS Express Quickstart](https://github.com/alphajoop/ts-express-quickstart)** - A pre-configured starter template for an Express project with TypeScript. - **[@alphajoop](https://github.com/alphajoop)**
 - **[Tyrex](https://github.com/elias-ba/tyrex)** - An Elixir library for genetic programming and neuroevolution, implementing standard genetic algorithms and NEAT. - **[@elias-ba](https://github.com/elias-ba)**
+- **[TérangaOS](https://github.com/MdialloC19/teranga-os)** - A sovereign Linux distribution for Africa with Windows 11-style interface, security hardening, and modular build system. - **[@MdialloC19](https://github.com/MdialloC19)**
 
 ## U
 
